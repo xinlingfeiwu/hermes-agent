@@ -1,0 +1,5 @@
+website/docs/user-guide/messaging/open-webui.md
+website/docs/user-guide/messaging/mattermost.md
+website/docs/user-guide/messaging/discord.md
+website/docs/user-guide/skills/godmode.md
+website/src/pages/skills/index.tsx

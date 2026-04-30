@@ -1,0 +1,73 @@
+{
+  "nodes": [
+    {"id": "instructor_skill", "label": "Instructor", "file_type": "document", "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "source_url": "https://python.useinstructor.com", "captured_at": null, "author": "Orchestra Research", "contributor": null},
+    {"id": "instructor_validation", "label": "Pydantic Validation", "file_type": "document", "source_file": "optional-skills/mlops/instructor/references/validation.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "instructor_providers", "label": "LLM Provider Configuration", "file_type": "document", "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "instructor_examples", "label": "Real-World Extraction Examples", "file_type": "document", "source_file": "optional-skills/mlops/instructor/references/examples.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "lambda_labs_skill", "label": "Lambda Labs GPU Cloud", "file_type": "document", "source_file": "optional-skills/mlops/lambda-labs/SKILL.md", "source_location": null, "source_url": "https://lambda.ai", "captured_at": null, "author": "Orchestra Research", "contributor": null},
+    {"id": "nemo_curator_skill", "label": "NeMo Curator", "file_type": "document", "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "source_url": "https://github.com/NVIDIA/NeMo-Curator", "captured_at": null, "author": "Orchestra Research", "contributor": null},
+    {"id": "structured_output_concept", "label": "Structured Output Extraction", "file_type": "concept", "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "pydantic_concept", "label": "Pydantic Type Safety", "file_type": "concept", "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "auto_retry_concept", "label": "Automatic Retry on Validation", "file_type": "concept", "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "llm_streaming_concept", "label": "LLM Response Streaming", "file_type": "concept", "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "gpu_training_concept", "label": "GPU-Based Training", "file_type": "concept", "source_file": "optional-skills/mlops/lambda-labs/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "data_curation_concept", "label": "GPU-Accelerated Data Curation", "file_type": "concept", "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "deduplication_concept", "label": "Fuzzy Deduplication", "file_type": "concept", "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "pii_redaction_concept", "label": "PII Redaction", "file_type": "concept", "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "anthropic_claude_provider", "label": "Anthropic Claude", "file_type": "entity", "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "openai_provider", "label": "OpenAI", "file_type": "entity", "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "ollama_provider", "label": "Ollama Local Models", "file_type": "entity", "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "lambda_stack_tool", "label": "Lambda Stack Pre-installed ML", "file_type": "entity", "source_file": "optional-skills/mlops/lambda-labs/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "rapids_framework", "label": "RAPIDS GPU Framework", "file_type": "entity", "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "dask_framework", "label": "Dask Distributed Computing", "file_type": "entity", "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}
+  ],
+  "edges": [
+    {"source": "instructor_skill", "target": "structured_output_concept", "relation": "conceptually_related_to", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "pydantic_concept", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "auto_retry_concept", "relation": "conceptually_related_to", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "llm_streaming_concept", "relation": "conceptually_related_to", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "instructor_validation", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "instructor_providers", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "instructor_examples", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_validation", "target": "pydantic_concept", "relation": "cites", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/references/validation.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_examples", "target": "structured_output_concept", "relation": "conceptually_related_to", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/references/examples.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_providers", "target": "anthropic_claude_provider", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_providers", "target": "openai_provider", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_providers", "target": "ollama_provider", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/instructor/references/providers.md", "source_location": null, "weight": 1.0},
+    {"source": "lambda_labs_skill", "target": "gpu_training_concept", "relation": "conceptually_related_to", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/lambda-labs/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "lambda_labs_skill", "target": "lambda_stack_tool", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/lambda-labs/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "nemo_curator_skill", "target": "data_curation_concept", "relation": "conceptually_related_to", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "nemo_curator_skill", "target": "deduplication_concept", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "nemo_curator_skill", "target": "pii_redaction_concept", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "nemo_curator_skill", "target": "rapids_framework", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "nemo_curator_skill", "target": "dask_framework", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "optional-skills/mlops/nemo-curator/SKILL.md", "source_location": null, "weight": 1.0},
+    {"source": "instructor_skill", "target": "lambda_labs_skill", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.6, "source_file": "optional-skills/mlops", "source_location": null, "weight": 1.0},
+    {"source": "lambda_labs_skill", "target": "nemo_curator_skill", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.7, "source_file": "optional-skills/mlops", "source_location": null, "weight": 1.0},
+    {"source": "gpu_training_concept", "target": "data_curation_concept", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.5, "source_file": "optional-skills/mlops", "source_location": null, "weight": 1.0}
+  ],
+  "hyperedges": [
+    {
+      "id": "llm_extraction_pipeline",
+      "label": "LLM Data Extraction & Curation Pipeline",
+      "members": ["instructor_skill", "lambda_labs_skill", "nemo_curator_skill"],
+      "relation": "workflow_stage",
+      "rationale": "These three skills form a complete pipeline: extract structured data with Instructor, train on GPUs with Lambda Labs, and prepare curated training data with NeMo Curator"
+    },
+    {
+      "id": "gpu_acceleration_stack",
+      "label": "GPU-Accelerated ML Stack",
+      "members": ["lambda_labs_skill", "nemo_curator_skill", "rapids_framework", "dask_framework"],
+      "relation": "technology_stack",
+      "rationale": "All components leverage GPU acceleration for performance: Lambda Labs provides GPU infrastructure, NeMo Curator provides GPU-optimized data curation, RAPIDS and Dask provide distributed GPU computing frameworks"
+    },
+    {
+      "id": "multi_provider_llm_support",
+      "label": "Multi-Provider LLM Support",
+      "members": ["instructor_skill", "anthropic_claude_provider", "openai_provider", "ollama_provider"],
+      "relation": "compatibility_matrix",
+      "rationale": "Instructor enables structured output from multiple LLM providers (Anthropic Claude, OpenAI, and local models via Ollama), providing flexibility in model selection"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

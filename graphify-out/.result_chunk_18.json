@@ -1,0 +1,330 @@
+{
+  "nodes": [
+    {
+      "id": "obsidian_skill",
+      "label": "Obsidian Note Taking Skill",
+      "file_type": "skill_definition",
+      "source_file": "skills/note-taking/obsidian/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "obsidian_vault",
+      "label": "Obsidian Vault",
+      "file_type": "concept",
+      "source_file": "skills/note-taking/obsidian/SKILL.md",
+      "source_location": "line 6-12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "obsidian_wikilinks",
+      "label": "Wikilinks Note Linking",
+      "file_type": "concept",
+      "source_file": "skills/note-taking/obsidian/SKILL.md",
+      "source_location": "line 64-66",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "note_taking_description",
+      "label": "Note Taking Skills Category",
+      "file_type": "category_description",
+      "source_file": "skills/note-taking/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "productivity_description",
+      "label": "Productivity Skills Category",
+      "file_type": "category_description",
+      "source_file": "skills/productivity/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_skill",
+      "label": "Google Workspace Skill",
+      "file_type": "skill_definition",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 1-17",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Nous Research",
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_gmail",
+      "label": "Gmail Service",
+      "file_type": "service",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 149-159",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_calendar",
+      "label": "Calendar Service",
+      "file_type": "service",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 161-168",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_drive",
+      "label": "Google Drive Service",
+      "file_type": "service",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 170-175",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_sheets",
+      "label": "Google Sheets Service",
+      "file_type": "service",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 183-189",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_docs",
+      "label": "Google Docs Service",
+      "file_type": "service",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 191-195",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "google_workspace_contacts",
+      "label": "Contacts Service",
+      "file_type": "service",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 177-181",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gmail_search_syntax",
+      "label": "Gmail Search Operators",
+      "file_type": "reference",
+      "source_file": "skills/productivity/google-workspace/references/gmail-search-syntax.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oauth2_authentication",
+      "label": "OAuth2 Authentication",
+      "file_type": "concept",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 3-4, 30-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gws_cli_tool",
+      "label": "Google Workspace CLI (gws)",
+      "file_type": "tool",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 23-27",
+      "source_url": "https://github.com/NousResearch/google-workspace-cli",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "obsidian_skill",
+      "target": "note_taking_description",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/note-taking/obsidian/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "obsidian_vault",
+      "target": "obsidian_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/note-taking/obsidian/SKILL.md",
+      "source_location": "line 6-12",
+      "weight": 1.0
+    },
+    {
+      "source": "obsidian_wikilinks",
+      "target": "obsidian_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/note-taking/obsidian/SKILL.md",
+      "source_location": "line 64-66",
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_skill",
+      "target": "productivity_description",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_gmail",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 149-159",
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_calendar",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 161-168",
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_drive",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 170-175",
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_sheets",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 183-189",
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_docs",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 191-195",
+      "weight": 1.0
+    },
+    {
+      "source": "google_workspace_contacts",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 177-181",
+      "weight": 1.0
+    },
+    {
+      "source": "gmail_search_syntax",
+      "target": "google_workspace_gmail",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 36",
+      "weight": 1.0
+    },
+    {
+      "source": "oauth2_authentication",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 3-4, 30-32",
+      "weight": 1.0
+    },
+    {
+      "source": "gws_cli_tool",
+      "target": "google_workspace_skill",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "source_location": "line 23-27",
+      "weight": 1.0
+    },
+    {
+      "source": "obsidian_skill",
+      "target": "google_workspace_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "gws_services_cluster",
+      "label": "Google Workspace Integrated Services",
+      "nodes": [
+        "google_workspace_gmail",
+        "google_workspace_calendar",
+        "google_workspace_drive",
+        "google_workspace_sheets",
+        "google_workspace_docs"
+      ],
+      "relation": "unified_platform",
+      "source_file": "skills/productivity/google-workspace/SKILL.md",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "banner_hermes_agent",
+      "label": "Hermes Agent Banner",
+      "file_type": "image",
+      "source_file": "website/static/img/hermes-agent-banner.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Main hero banner for hermes-agent website"
+    },
+    {
+      "id": "banner_text_hermes_agent",
+      "label": "HERMES-AGENT Text",
+      "type": "text_element",
+      "description": "Main heading text 'HERMES-AGENT' in bold capital letters",
+      "styling": "pixel_art_arcade_font"
+    },
+    {
+      "id": "color_scheme_yellow_bronze",
+      "label": "Yellow-Bronze Color Scheme",
+      "type": "visual_design",
+      "description": "Distinctive color palette with bright yellow main text and bronze/copper gradient at letter bottoms",
+      "colors": ["#FFFF00", "#DAA520"]
+    },
+    {
+      "id": "retro_pixel_aesthetic",
+      "label": "Retro Pixel Art Aesthetic",
+      "type": "design_style",
+      "description": "8-bit/pixel art style with outlined block letters evoking arcade game aesthetics"
+    },
+    {
+      "id": "dark_background",
+      "label": "Dark Background",
+      "type": "design_element",
+      "description": "Black or very dark charcoal background providing high contrast",
+      "color": "#1a1a1a"
+    },
+    {
+      "id": "arcade_gaming_theme",
+      "label": "Arcade Gaming Theme",
+      "type": "visual_concept",
+      "description": "Classic arcade game visual styling suggesting action, retro computing, and interactive gameplay"
+    },
+    {
+      "id": "outlined_letter_effect",
+      "label": "Outlined Letter Effect",
+      "type": "typography_effect",
+      "description": "Each letter has defined outlines and internal structure creating 3D depth effect"
+    }
+  ],
+  "edges": [
+    {
+      "source": "banner_hermes_agent",
+      "target": "banner_text_hermes_agent",
+      "relation": "contains"
+    },
+    {
+      "source": "banner_hermes_agent",
+      "target": "color_scheme_yellow_bronze",
+      "relation": "uses"
+    },
+    {
+      "source": "banner_hermes_agent",
+      "target": "retro_pixel_aesthetic",
+      "relation": "employs"
+    },
+    {
+      "source": "banner_hermes_agent",
+      "target": "dark_background",
+      "relation": "features"
+    },
+    {
+      "source": "retro_pixel_aesthetic",
+      "target": "arcade_gaming_theme",
+      "relation": "evokes"
+    },
+    {
+      "source": "banner_text_hermes_agent",
+      "target": "outlined_letter_effect",
+      "relation": "demonstrates"
+    },
+    {
+      "source": "color_scheme_yellow_bronze",
+      "target": "arcade_gaming_theme",
+      "relation": "reinforces"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

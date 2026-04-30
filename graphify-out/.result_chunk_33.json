@@ -1,0 +1,104 @@
+{
+  "nodes": [
+    {
+      "id": "session_recap_panel",
+      "label": "Session Recap Panel",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "previous_conversation_header",
+      "label": "Previous Conversation Header",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "user_query_message",
+      "label": "User Query Messages",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hermes_response_message",
+      "label": "Hermes Response Messages",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tool_calls_summary",
+      "label": "Tool Calls Summary",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "session_recap_panel",
+      "target": "previous_conversation_header",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "previous_conversation_header",
+      "target": "user_query_message",
+      "relation": "followed_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "user_query_message",
+      "target": "hermes_response_message",
+      "relation": "responded_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hermes_response_message",
+      "target": "tool_calls_summary",
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "website/static/img/docs/session-recap.svg",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

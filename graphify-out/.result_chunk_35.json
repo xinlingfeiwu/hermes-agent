@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "caduceus_icon",
+      "label": "Caduceus Icon",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "central_staff",
+      "label": "Central Staff",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wings",
+      "label": "Wings",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "left_serpent",
+      "label": "Left Serpent",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "right_serpent",
+      "label": "Right Serpent",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "orb_top",
+      "label": "Orb at Top",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gold_gradient",
+      "label": "Gold Gradient",
+      "file_type": "image",
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "caduceus_icon",
+      "target": "central_staff",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "caduceus_icon",
+      "target": "wings",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "caduceus_icon",
+      "target": "left_serpent",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "caduceus_icon",
+      "target": "right_serpent",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "caduceus_icon",
+      "target": "orb_top",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "central_staff",
+      "target": "gold_gradient",
+      "relation": "uses_color",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wings",
+      "target": "gold_gradient",
+      "relation": "uses_color",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "left_serpent",
+      "target": "gold_gradient",
+      "relation": "uses_color",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "right_serpent",
+      "target": "gold_gradient",
+      "relation": "uses_color",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "orb_top",
+      "target": "gold_gradient",
+      "relation": "uses_color",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "acp_registry/icon.svg",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

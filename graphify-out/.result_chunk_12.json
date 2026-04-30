@@ -1,0 +1,2099 @@
+{
+  "nodes": [
+    {
+      "id": "design_lovable",
+      "label": "Lovable Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_minimax",
+      "label": "MiniMax Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_mintlify",
+      "label": "Mintlify Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_miro",
+      "label": "Miro Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_mistral.ai",
+      "label": "Mistral AI Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_mongodb",
+      "label": "MongoDB Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_notion",
+      "label": "Notion Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_nvidia",
+      "label": "NVIDIA Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_ollama",
+      "label": "Ollama Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_opencode.ai",
+      "label": "OpenCode Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_pinterest",
+      "label": "Pinterest Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_posthog",
+      "label": "PostHog Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_raycast",
+      "label": "Raycast Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_replicate",
+      "label": "Replicate Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_resend",
+      "label": "Resend Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_revolut",
+      "label": "Revolut Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_runwayml",
+      "label": "Runway Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_sanity",
+      "label": "Sanity Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_sentry",
+      "label": "Sentry Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_spacex",
+      "label": "SpaceX Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_spotify",
+      "label": "Spotify Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_stripe",
+      "label": "Stripe Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_color_palette",
+      "label": "Color Palette",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_typography",
+      "label": "Typography",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_components",
+      "label": "Components",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_layout_system",
+      "label": "Layout System",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_button_design",
+      "label": "Button Design",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_card_design",
+      "label": "Card Design",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_dark_theme",
+      "label": "Dark Theme",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_gradient_usage",
+      "label": "Gradient Usage",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "design_lovable",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_color_palette",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_typography",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_components",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_layout_system",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_button_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_card_design",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_miro",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_pinterest",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/pinterest.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_revolut",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/revolut.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sentry",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sentry.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spotify",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spotify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_dark_theme",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_minimax",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/minimax.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mintlify",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mintlify.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mistral.ai",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/mongodb.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/notion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/nvidia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_ollama",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/ollama.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_opencode.ai",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/opencode.ai.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_posthog",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/posthog.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_raycast",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_replicate",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/replicate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_resend",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/resend.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_runwayml",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_sanity",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/sanity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_spacex",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/spacex.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "concept_gradient_usage",
+      "relation": "implements_concept",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "design_replicate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_mongodb",
+      "target": "design_replicate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_lovable",
+      "target": "design_mintlify",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_notion",
+      "target": "design_spotify",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_stripe",
+      "target": "design_revolut",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "design_nvidia",
+      "target": "design_spacex",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

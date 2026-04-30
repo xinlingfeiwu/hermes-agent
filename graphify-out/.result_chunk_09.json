@@ -1,0 +1,418 @@
+{
+  "nodes": [
+    {
+      "id": "updaters_and_trackers_value_tracker",
+      "label": "ValueTracker",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 11-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updaters_and_trackers_add_updater",
+      "label": "add_updater Pattern",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 52-64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updaters_and_trackers_always_redraw",
+      "label": "always_redraw",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 85-102",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updaters_and_trackers_decimal_number",
+      "label": "DecimalNumber",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 108-128",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_explainer_5min_template",
+      "label": "5-Minute Paper Explainer Template",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 23-48",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_explainer_narration_script",
+      "label": "Narration-First Workflow",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 50-65",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_explainer_architecture_diagram",
+      "label": "Progressive Architecture Diagram Building",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 140-168",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "p5js_skill_overview",
+      "label": "p5.js Skill",
+      "file_type": "document",
+      "source_file": "skills/creative/p5js/SKILL.md",
+      "source_location": "lines 1-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "p5js_export_formats",
+      "label": "p5.js Export Formats",
+      "file_type": "document",
+      "source_file": "skills/creative/p5js/README.md",
+      "source_location": "lines 23-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "p5js_animation_easing",
+      "label": "Animation Easing Functions",
+      "file_type": "document",
+      "source_file": "skills/creative/p5js/references/animation.md",
+      "source_location": "lines 43-59",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "popular_web_designs_skill",
+      "label": "Popular Web Designs Skill",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/SKILL.md",
+      "source_location": "lines 1-35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stripe_design_system",
+      "label": "Stripe Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": "lines 1-50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linear_design_system",
+      "label": "Linear Design System",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/linear.app.md",
+      "source_location": "lines 1-50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stripe_typography_sohne",
+      "label": "Stripe Typography (sohne-var)",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": "lines 8-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stripe_color_palette",
+      "label": "Stripe Color Palette",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": "lines 30-45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linear_typography_inter",
+      "label": "Linear Typography (Inter Variable)",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/linear.app.md",
+      "source_location": "lines 8-20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linear_color_palette",
+      "label": "Linear Color Palette",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/linear.app.md",
+      "source_location": "lines 30-50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "design_system_font_substitution",
+      "label": "Font Substitution Reference",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/SKILL.md",
+      "source_location": "lines 81-108",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "manim_animation_concept",
+      "label": "Manim Animation Framework",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 1-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_explainer_equation_reveal",
+      "label": "Equation Reveal Strategy",
+      "file_type": "document",
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 121-138",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "updaters_and_trackers_value_tracker",
+      "target": "updaters_and_trackers_add_updater",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 13-48",
+      "weight": 1.0
+    },
+    {
+      "source": "updaters_and_trackers_add_updater",
+      "target": "updaters_and_trackers_always_redraw",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 104-106",
+      "weight": 1.0
+    },
+    {
+      "source": "updaters_and_trackers_value_tracker",
+      "target": "updaters_and_trackers_decimal_number",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md",
+      "source_location": "lines 108-128",
+      "weight": 1.0
+    },
+    {
+      "source": "paper_explainer_narration_script",
+      "target": "paper_explainer_5min_template",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 50-65",
+      "weight": 1.0
+    },
+    {
+      "source": "paper_explainer_architecture_diagram",
+      "target": "paper_explainer_5min_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 140-168",
+      "weight": 1.0
+    },
+    {
+      "source": "p5js_animation_easing",
+      "target": "p5js_skill_overview",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/p5js/references/animation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "p5js_export_formats",
+      "target": "p5js_skill_overview",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "skills/creative/p5js/README.md",
+      "source_location": "lines 23-31",
+      "weight": 1.0
+    },
+    {
+      "source": "stripe_design_system",
+      "target": "stripe_typography_sohne",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": "lines 8-22",
+      "weight": 1.0
+    },
+    {
+      "source": "stripe_design_system",
+      "target": "stripe_color_palette",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/stripe.md",
+      "source_location": "lines 30-45",
+      "weight": 1.0
+    },
+    {
+      "source": "linear_design_system",
+      "target": "linear_typography_inter",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/linear.app.md",
+      "source_location": "lines 8-20",
+      "weight": 1.0
+    },
+    {
+      "source": "linear_design_system",
+      "target": "linear_color_palette",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/linear.app.md",
+      "source_location": "lines 30-50",
+      "weight": 1.0
+    },
+    {
+      "source": "stripe_design_system",
+      "target": "design_system_font_substitution",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/SKILL.md",
+      "source_location": "lines 81-108",
+      "weight": 1.0
+    },
+    {
+      "source": "linear_design_system",
+      "target": "design_system_font_substitution",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/SKILL.md",
+      "source_location": "lines 81-108",
+      "weight": 1.0
+    },
+    {
+      "source": "stripe_typography_sohne",
+      "target": "linear_typography_inter",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "manim_animation_concept",
+      "target": "paper_explainer_5min_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 23-48",
+      "weight": 1.0
+    },
+    {
+      "source": "p5js_animation_easing",
+      "target": "manim_animation_concept",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_explainer_equation_reveal",
+      "target": "paper_explainer_5min_template",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "skills/creative/manim-video/references/paper-explainer.md",
+      "source_location": "lines 121-138",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "name": "Manim Animation Pipeline",
+      "members": ["manim_animation_concept", "updaters_and_trackers_value_tracker", "paper_explainer_5min_template"],
+      "description": "Core animation workflow using updaters, value trackers, and paper explainer patterns",
+      "source_file": "skills/creative/manim-video/references/updaters-and-trackers.md"
+    },
+    {
+      "name": "Design System Typography",
+      "members": ["stripe_design_system", "linear_design_system", "stripe_typography_sohne", "linear_typography_inter", "design_system_font_substitution"],
+      "description": "Web design typography systems across Stripe and Linear with font substitution strategies",
+      "source_file": "skills/creative/popular-web-designs/SKILL.md"
+    },
+    {
+      "name": "Creative Workflow Integration",
+      "members": ["p5js_skill_overview", "p5js_export_formats", "popular_web_designs_skill"],
+      "description": "Integrated creative skills for generative art, design systems, and web design",
+      "source_file": "skills/creative/p5js/README.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

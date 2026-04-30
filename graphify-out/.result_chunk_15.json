@@ -1,0 +1,406 @@
+{
+  "nodes": [
+    {
+      "id": "mlops_inference_skills",
+      "label": "MLOps Inference Skills Category",
+      "file_type": "category",
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gguf_quantization",
+      "label": "GGUF Quantization",
+      "file_type": "skill",
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/ggml-org/llama.cpp",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "guidance_constrained_generation",
+      "label": "Guidance: Constrained LLM Generation",
+      "file_type": "skill",
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/guidance-ai/guidance",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "llama_cpp_inference",
+      "label": "llama.cpp: CPU/Apple Silicon Inference",
+      "file_type": "skill",
+      "source_file": "skills/mlops/inference/llama-cpp/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/ggerganov/llama.cpp",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "outlines_structured_generation",
+      "label": "Outlines: Structured Text Generation",
+      "file_type": "skill",
+      "source_file": "skills/mlops/inference/outlines/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/outlines-dev/outlines",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "vllm_high_throughput",
+      "label": "vLLM: High-Performance LLM Serving",
+      "file_type": "skill",
+      "source_file": "skills/mlops/inference/vllm/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/vllm-project/vllm",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "obliteratus_abliteration",
+      "label": "OBLITERATUS: Refusal Removal",
+      "file_type": "skill",
+      "source_file": "skills/mlops/inference/obliteratus/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "gguf_quantization_types",
+      "label": "GGUF Quantization Types (K-quants)",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "line 101-126",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "token_healing",
+      "label": "Token Healing Mechanism",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "line 154-184",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paged_attention",
+      "label": "PagedAttention and Continuous Batching",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/vllm/SKILL.md",
+      "source_location": "line 16-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mechanistic_interpretability",
+      "label": "Mechanistic Interpretability",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/obliteratus/SKILL.md",
+      "source_location": "line 15-16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "finite_state_machines",
+      "label": "Finite State Machine (FSM) for Constrained Generation",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/outlines/SKILL.md",
+      "source_location": "line 84-98",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pydantic_integration",
+      "label": "Pydantic Model Integration for Structured Output",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/outlines/SKILL.md",
+      "source_location": "line 234-297",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hardware_acceleration",
+      "label": "Hardware Acceleration (Metal/CUDA/ROCm)",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/llama-cpp/SKILL.md",
+      "source_location": "line 138-174",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quantization_comparison",
+      "label": "Quantization Format Comparison",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/llama-cpp/SKILL.md",
+      "source_location": "line 109-136",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "mlops_inference_skills",
+      "target": "gguf_quantization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mlops_inference_skills",
+      "target": "guidance_constrained_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mlops_inference_skills",
+      "target": "llama_cpp_inference",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mlops_inference_skills",
+      "target": "outlines_structured_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mlops_inference_skills",
+      "target": "vllm_high_throughput",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gguf_quantization",
+      "target": "gguf_quantization_types",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "line 101-126",
+      "weight": 1.0
+    },
+    {
+      "source": "gguf_quantization",
+      "target": "llama_cpp_inference",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "guidance_constrained_generation",
+      "target": "token_healing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "line 154-184",
+      "weight": 1.0
+    },
+    {
+      "source": "guidance_constrained_generation",
+      "target": "outlines_structured_generation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "llama_cpp_inference",
+      "target": "gguf_quantization",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "skills/mlops/inference/llama-cpp/SKILL.md",
+      "source_location": "line 69-71",
+      "weight": 1.0
+    },
+    {
+      "source": "llama_cpp_inference",
+      "target": "hardware_acceleration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/llama-cpp/SKILL.md",
+      "source_location": "line 138-174",
+      "weight": 1.0
+    },
+    {
+      "source": "llama_cpp_inference",
+      "target": "quantization_comparison",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/llama-cpp/SKILL.md",
+      "source_location": "line 109-136",
+      "weight": 1.0
+    },
+    {
+      "source": "outlines_structured_generation",
+      "target": "finite_state_machines",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/outlines/SKILL.md",
+      "source_location": "line 84-98",
+      "weight": 1.0
+    },
+    {
+      "source": "outlines_structured_generation",
+      "target": "pydantic_integration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/outlines/SKILL.md",
+      "source_location": "line 234-297",
+      "weight": 1.0
+    },
+    {
+      "source": "vllm_high_throughput",
+      "target": "paged_attention",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/vllm/SKILL.md",
+      "source_location": "line 16-18",
+      "weight": 1.0
+    },
+    {
+      "source": "obliteratus_abliteration",
+      "target": "mechanistic_interpretability",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/obliteratus/SKILL.md",
+      "source_location": "line 15-16",
+      "weight": 1.0
+    },
+    {
+      "source": "vllm_high_throughput",
+      "target": "llama_cpp_inference",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/mlops/inference/vllm/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "guidance_constrained_generation",
+      "target": "outlines_structured_generation",
+      "relation": "cites",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "line 520-544",
+      "weight": 1.0
+    },
+    {
+      "source": "outlines_structured_generation",
+      "target": "llama_cpp_inference",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/inference/outlines/SKILL.md",
+      "source_location": "line 197-207",
+      "weight": 1.0
+    },
+    {
+      "source": "obliteratus_abliteration",
+      "target": "vllm_high_throughput",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/mlops/inference/obliteratus/SKILL.md",
+      "source_location": "line 326-327",
+      "weight": 1.0
+    },
+    {
+      "source": "obliteratus_abliteration",
+      "target": "gguf_quantization",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/mlops/inference/obliteratus/SKILL.md",
+      "source_location": "line 328-329",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "nodes": ["guidance_constrained_generation", "outlines_structured_generation", "vllm_high_throughput"],
+      "relation": "structured_output_chain",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "description": "These three skills form a chain: Guidance & Outlines provide constrained generation at the token level, while vLLM serves the models with high throughput"
+    },
+    {
+      "nodes": ["gguf_quantization", "llama_cpp_inference", "hardware_acceleration"],
+      "relation": "cpu_edge_inference_pipeline",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "description": "GGUF quantization, llama.cpp inference engine, and hardware acceleration combine for efficient CPU/Apple Silicon/consumer GPU deployment"
+    },
+    {
+      "nodes": ["obliteratus_abliteration", "mechanistic_interpretability", "outlines_structured_generation"],
+      "relation": "model_surgery_and_control",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "description": "Obliteratus surgically modifies model weights; mechanistic interpretability analyzes model internals; Outlines constrains outputs during generation"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

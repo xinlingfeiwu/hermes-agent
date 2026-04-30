@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "id": "mcp_fastmcp",
+      "label": "FastMCP - MCP Server Builder",
+      "description": "Build, test, inspect, install, and deploy MCP servers in Python",
+      "file_type": "skill",
+      "source_file": "optional-skills/mcp/fastmcp/SKILL.md"
+    },
+    {
+      "id": "accelerate",
+      "label": "HuggingFace Accelerate",
+      "description": "Simplified distributed training with 4 lines of code",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/accelerate/SKILL.md"
+    },
+    {
+      "id": "chroma",
+      "label": "Chroma Vector Database",
+      "description": "Open-source embedding database for AI applications",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/chroma/SKILL.md"
+    },
+    {
+      "id": "faiss",
+      "label": "FAISS Similarity Search",
+      "description": "Facebook AI library for billion-scale vector similarity search",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/faiss/SKILL.md"
+    },
+    {
+      "id": "flash_attention",
+      "label": "Flash Attention",
+      "description": "Fast memory-efficient attention for transformers",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/flash-attention/SKILL.md"
+    },
+    {
+      "id": "atropos_env",
+      "label": "Hermes Atropos Environments",
+      "description": "Build and test Hermes Agent RL environments",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/hermes-atropos-environments/SKILL.md"
+    },
+    {
+      "id": "instructor",
+      "label": "Instructor Structured Output",
+      "description": "Extract structured data from LLM responses with validation",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/instructor/SKILL.md"
+    },
+    {
+      "id": "openclaw_migration",
+      "label": "OpenClaw Migration",
+      "description": "Migrate user state from OpenClaw to Hermes Agent",
+      "file_type": "skill",
+      "source_file": "optional-skills/migration/openclaw-migration/SKILL.md"
+    },
+    {
+      "id": "distributed_training",
+      "label": "Distributed Training",
+      "description": "Training across multiple GPUs and machines",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/accelerate/SKILL.md"
+    },
+    {
+      "id": "vector_search",
+      "label": "Vector Search",
+      "description": "Similarity search over vector embeddings",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/faiss/SKILL.md"
+    },
+    {
+      "id": "rag_application",
+      "label": "RAG Applications",
+      "description": "Retrieval-augmented generation for LLM applications",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/chroma/SKILL.md"
+    },
+    {
+      "id": "attention_optimization",
+      "label": "Attention Optimization",
+      "description": "Optimizing transformer attention mechanisms",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/flash-attention/SKILL.md"
+    },
+    {
+      "id": "structured_output",
+      "label": "Structured Output Extraction",
+      "description": "Reliably extracting structured data from LLMs",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/instructor/SKILL.md"
+    },
+    {
+      "id": "rl_training",
+      "label": "RL Training",
+      "description": "Reinforcement learning with Atropos framework",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/hermes-atropos-environments/SKILL.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "accelerate",
+      "target": "distributed_training",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/accelerate/SKILL.md"
+    },
+    {
+      "source": "chroma",
+      "target": "rag_application",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/chroma/SKILL.md"
+    },
+    {
+      "source": "faiss",
+      "target": "vector_search",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/faiss/SKILL.md"
+    },
+    {
+      "source": "flash_attention",
+      "target": "attention_optimization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/flash-attention/SKILL.md"
+    },
+    {
+      "source": "atropos_env",
+      "target": "rl_training",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/hermes-atropos-environments/SKILL.md"
+    },
+    {
+      "source": "instructor",
+      "target": "structured_output",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/instructor/SKILL.md"
+    },
+    {
+      "source": "faiss",
+      "target": "rag_application",
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "optional-skills/mlops/faiss/SKILL.md"
+    },
+    {
+      "source": "rag_application",
+      "target": "structured_output",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "optional-skills/mlops/chroma/SKILL.md"
+    },
+    {
+      "source": "distributed_training",
+      "target": "attention_optimization",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/mlops/accelerate/SKILL.md"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

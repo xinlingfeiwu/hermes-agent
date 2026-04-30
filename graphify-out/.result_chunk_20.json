@@ -1,0 +1,394 @@
+{
+  "nodes": [
+    {
+      "id": "openhue_skill",
+      "label": "OpenHue Skill",
+      "file_type": "document",
+      "source_file": "skills/smart-home/openhue/SKILL.md",
+      "source_location": null,
+      "source_url": "https://www.openhue.io/cli",
+      "captured_at": null,
+      "author": "community",
+      "contributor": null
+    },
+    {
+      "id": "philips_hue_lights",
+      "label": "Philips Hue Lights Control",
+      "file_type": "concept",
+      "source_file": "skills/smart-home/openhue/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "social_media_skills",
+      "label": "Social Media Skills",
+      "file_type": "document",
+      "source_file": "skills/social-media/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xitter_skill",
+      "label": "Xitter (X/Twitter) Skill",
+      "file_type": "document",
+      "source_file": "skills/social-media/xitter/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/Infatoshi/x-cli",
+      "captured_at": null,
+      "author": "Siddharth Balyan + Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "x_api_credentials",
+      "label": "X API Credentials",
+      "file_type": "concept",
+      "source_file": "skills/social-media/xitter/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "writing_plans_skill",
+      "label": "Writing Implementation Plans",
+      "file_type": "document",
+      "source_file": "skills/software-development/writing-plans/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "tdd_skill",
+      "label": "Test-Driven Development",
+      "file_type": "document",
+      "source_file": "skills/software-development/test-driven-development/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "systematic_debugging_skill",
+      "label": "Systematic Debugging",
+      "file_type": "document",
+      "source_file": "skills/software-development/systematic-debugging/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "subagent_driven_development_skill",
+      "label": "Subagent-Driven Development",
+      "file_type": "document",
+      "source_file": "skills/software-development/subagent-driven-development/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "requesting_code_review_skill",
+      "label": "Pre-Commit Code Verification",
+      "file_type": "document",
+      "source_file": "skills/software-development/requesting-code-review/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "plan_skill",
+      "label": "Plan Mode",
+      "file_type": "document",
+      "source_file": "skills/software-development/plan/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "red_green_refactor_cycle",
+      "label": "RED-GREEN-REFACTOR Cycle",
+      "file_type": "concept",
+      "source_file": "skills/software-development/test-driven-development/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "root_cause_analysis",
+      "label": "Root Cause Analysis",
+      "file_type": "concept",
+      "source_file": "skills/software-development/systematic-debugging/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "two_stage_review",
+      "label": "Two-Stage Review (Spec + Quality)",
+      "file_type": "concept",
+      "source_file": "skills/software-development/subagent-driven-development/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "static_security_scan",
+      "label": "Static Security Scan",
+      "file_type": "concept",
+      "source_file": "skills/software-development/requesting-code-review/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bite_sized_tasks",
+      "label": "Bite-Sized Task Granularity (2-5 min)",
+      "file_type": "concept",
+      "source_file": "skills/software-development/writing-plans/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "x_cli_client",
+      "label": "x-cli Terminal Client",
+      "file_type": "concept",
+      "source_file": "skills/social-media/xitter/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "iot_automation",
+      "label": "IoT Automation",
+      "file_type": "concept",
+      "source_file": "skills/smart-home/openhue/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "openhue_skill",
+      "target": "philips_hue_lights",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/smart-home/openhue/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openhue_skill",
+      "target": "iot_automation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/smart-home/openhue/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xitter_skill",
+      "target": "x_cli_client",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/social-media/xitter/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xitter_skill",
+      "target": "x_api_credentials",
+      "relation": "requires",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/social-media/xitter/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "social_media_skills",
+      "target": "xitter_skill",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/social-media/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "writing_plans_skill",
+      "target": "bite_sized_tasks",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/writing-plans/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tdd_skill",
+      "target": "red_green_refactor_cycle",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/test-driven-development/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "systematic_debugging_skill",
+      "target": "root_cause_analysis",
+      "relation": "enforces",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/systematic-debugging/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subagent_driven_development_skill",
+      "target": "two_stage_review",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/subagent-driven-development/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "requesting_code_review_skill",
+      "target": "static_security_scan",
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/requesting-code-review/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "writing_plans_skill",
+      "target": "tdd_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/writing-plans/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subagent_driven_development_skill",
+      "target": "writing_plans_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/subagent-driven-development/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "systematic_debugging_skill",
+      "target": "tdd_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/systematic-debugging/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subagent_driven_development_skill",
+      "target": "requesting_code_review_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/subagent-driven-development/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "requesting_code_review_skill",
+      "target": "subagent_driven_development_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/requesting-code-review/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "plan_skill",
+      "target": "writing_plans_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/software-development/plan/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "nodes": ["writing_plans_skill", "subagent_driven_development_skill", "requesting_code_review_skill"],
+      "relation": "software_development_workflow",
+      "description": "Complete software development workflow: planning → implementation → verification",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 2.0
+    },
+    {
+      "nodes": ["tdd_skill", "systematic_debugging_skill", "requesting_code_review_skill"],
+      "relation": "quality_assurance_pipeline",
+      "description": "Quality assurance pipeline: test-first development → root cause investigation → code review",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "skills/software-development/",
+      "weight": 2.0
+    },
+    {
+      "nodes": ["xitter_skill", "x_api_credentials", "x_cli_client"],
+      "relation": "twitter_integration_stack",
+      "description": "X/Twitter integration with credentials and CLI client",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "skills/social-media/xitter/SKILL.md",
+      "weight": 1.5
+    }
+  ],
+  "input_tokens": 12000,
+  "output_tokens": 2400
+}

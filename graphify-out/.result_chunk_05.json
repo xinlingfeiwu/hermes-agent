@@ -1,0 +1,476 @@
+{
+  "nodes": [
+    {
+      "id": "saelens_sparse_autoencoder",
+      "label": "Sparse Autoencoder (SAE)",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 14-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": "jbloomAus",
+      "contributor": null
+    },
+    {
+      "id": "saelens_skill",
+      "label": "SAELens Skill",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 1-12",
+      "source_url": "https://github.com/jbloomAus/SAELens",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "saelens_monosemanticity",
+      "label": "Monosemanticity",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 20-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_feature_discovery",
+      "label": "Feature Discovery in Neural Networks",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 28-33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_superposition",
+      "label": "Superposition Phenomenon",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 20-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_training_workflow",
+      "label": "SAE Training Workflow",
+      "file_type": "workflow",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 121-196",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_analysis_workflow",
+      "label": "SAE Analysis & Steering Workflow",
+      "file_type": "workflow",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 197-277",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_loss_function",
+      "label": "MSE + L1 Sparsity Loss",
+      "file_type": "technical_component",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 61",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_transformer_lens",
+      "label": "TransformerLens Integration",
+      "file_type": "dependency",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 75-79",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_mechanistic_interpretability",
+      "label": "Mechanistic Interpretability",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_anthropic_research",
+      "label": "Anthropic Monosemanticity Research",
+      "file_type": "reference",
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 366-367",
+      "source_url": "https://transformer-circuits.pub/2023/monosemantic-features",
+      "captured_at": null,
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "simpo_skill",
+      "label": "SimPO Skill",
+      "file_type": "skill",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 1-12",
+      "source_url": "https://github.com/princeton-nlp/SimPO",
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "simpo_preference_optimization",
+      "label": "Simple Preference Optimization (SimPO)",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 14-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_reference_free",
+      "label": "Reference-Free Optimization",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_training_workflow",
+      "label": "SimPO Training Workflow",
+      "file_type": "workflow",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 47-127",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_loss_sigmoid",
+      "label": "Sigmoid Loss Function",
+      "file_type": "technical_component",
+      "source_file": "optional-skills/mlops/simpo/references/loss-functions.md",
+      "source_location": "line 27-41",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_loss_hinge",
+      "label": "Hinge Loss Function",
+      "file_type": "technical_component",
+      "source_file": "optional-skills/mlops/simpo/references/loss-functions.md",
+      "source_location": "line 43-56",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_dpo_comparison",
+      "label": "SimPO vs DPO Comparison",
+      "file_type": "analysis",
+      "source_file": "optional-skills/mlops/simpo/references/loss-functions.md",
+      "source_location": "line 58-82",
+      "source_url": null,
+      "captured_at": null,
+      "contributor": null,
+      "author": null
+    },
+    {
+      "id": "simpo_beta_hyperparameter",
+      "label": "Beta (Reward Scaling) Hyperparameter",
+      "file_type": "technical_component",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_alignment",
+      "label": "LLM Alignment via Preference Optimization",
+      "file_type": "concept",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpo_deepspeed",
+      "label": "DeepSpeed ZeRO-3 Integration",
+      "file_type": "dependency",
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 81",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "saelens_tutorials",
+      "label": "SAELens Tutorials Reference",
+      "file_type": "document",
+      "source_file": "optional-skills/mlops/saelens/references/tutorials.md",
+      "source_location": "line 1-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "saelens_skill",
+      "target": "saelens_sparse_autoencoder",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 14-16",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_sparse_autoencoder",
+      "target": "saelens_monosemanticity",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_sparse_autoencoder",
+      "target": "saelens_superposition",
+      "relation": "solves",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 22-24",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_feature_discovery",
+      "target": "saelens_sparse_autoencoder",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 28-33",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_training_workflow",
+      "target": "saelens_loss_function",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 129-147",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_analysis_workflow",
+      "target": "saelens_feature_discovery",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 197-277",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_sparse_autoencoder",
+      "target": "saelens_transformer_lens",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 75-76",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_mechanistic_interpretability",
+      "target": "saelens_sparse_autoencoder",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_sparse_autoencoder",
+      "target": "saelens_anthropic_research",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md",
+      "source_location": "line 366-367",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_skill",
+      "target": "simpo_preference_optimization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 14-18",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_preference_optimization",
+      "target": "simpo_reference_free",
+      "relation": "characterizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_training_workflow",
+      "target": "simpo_beta_hyperparameter",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 63",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_preference_optimization",
+      "target": "simpo_alignment",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 10",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_loss_sigmoid",
+      "target": "simpo_preference_optimization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/references/loss-functions.md",
+      "source_location": "line 27-41",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_loss_hinge",
+      "target": "simpo_preference_optimization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/references/loss-functions.md",
+      "source_location": "line 43-56",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_dpo_comparison",
+      "target": "simpo_preference_optimization",
+      "relation": "analyzes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/references/loss-functions.md",
+      "source_location": "line 58-82",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_training_workflow",
+      "target": "simpo_deepspeed",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/SKILL.md",
+      "source_location": "line 81",
+      "weight": 1.0
+    },
+    {
+      "source": "saelens_tutorials",
+      "target": "saelens_skill",
+      "relation": "documents",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/references/tutorials.md",
+      "source_location": "line 1",
+      "weight": 1.0
+    },
+    {
+      "source": "simpo_preference_optimization",
+      "target": "saelens_feature_discovery",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": null,
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "simpo_alignment",
+      "target": "saelens_mechanistic_interpretability",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 0.5
+    }
+  ],
+  "hyperedges": [
+    {
+      "nodes": [
+        "simpo_preference_optimization",
+        "simpo_alignment",
+        "simpo_training_workflow"
+      ],
+      "relation": "forms_capability",
+      "description": "SimPO enables efficient LLM alignment through preference-based training",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/simpo/SKILL.md"
+    },
+    {
+      "nodes": [
+        "saelens_sparse_autoencoder",
+        "saelens_feature_discovery",
+        "saelens_mechanistic_interpretability"
+      ],
+      "relation": "forms_research_pipeline",
+      "description": "SAELens enables mechanistic interpretability research through sparse feature discovery",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/mlops/saelens/SKILL.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

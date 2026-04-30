@@ -1,0 +1,405 @@
+{
+  "nodes": [
+    {
+      "id": "memory_openviking",
+      "label": "OpenViking Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/openviking/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Filesystem-style knowledge hierarchy with tiered retrieval"
+    },
+    {
+      "id": "memory_retaindb",
+      "label": "RetainDB Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/retaindb/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Cloud memory API with hybrid search (Vector + BM25 + Reranking)"
+    },
+    {
+      "id": "memory_supermemory",
+      "label": "Supermemory Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/supermemory/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Semantic long-term memory with profile recall and session-end ingest"
+    },
+    {
+      "id": "memory_byterover",
+      "label": "ByteRover Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/byterover/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Persistent memory via hierarchical knowledge tree"
+    },
+    {
+      "id": "memory_hindsight",
+      "label": "Hindsight Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/hindsight/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Knowledge graph with entity resolution and multi-strategy retrieval"
+    },
+    {
+      "id": "memory_holographic",
+      "label": "Holographic Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/holographic/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Local SQLite fact store with FTS5 and HRR-based retrieval"
+    },
+    {
+      "id": "memory_honcho",
+      "label": "Honcho Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/honcho/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Cross-session user modeling with dialectic Q&A and peer cards"
+    },
+    {
+      "id": "memory_mem0",
+      "label": "Mem0 Memory Provider",
+      "file_type": "plugin",
+      "source_file": "plugins/memory/mem0/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Server-side LLM fact extraction with semantic search"
+    },
+    {
+      "id": "memory_framework",
+      "label": "Memory Framework Architecture",
+      "file_type": "concept",
+      "source_file": "plugins/memory/",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Pluggable memory providers supporting semantic search, fact extraction, and session persistence"
+    },
+    {
+      "id": "plan_gemini_oauth",
+      "label": "Gemini OAuth Provider Plan",
+      "file_type": "plan",
+      "source_file": "plans/gemini-oauth-provider.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "First-class Gemini provider with Google OAuth authentication (PKCE flow)"
+    },
+    {
+      "id": "oauth_standard",
+      "label": "OAuth Architecture (PKCE + Localhost Callback)",
+      "file_type": "concept",
+      "source_file": "plans/gemini-oauth-provider.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Authorization Code + PKCE S256, localhost callback server, token refresh lifecycle"
+    },
+    {
+      "id": "ai_provider_ecosystem",
+      "label": "AI Provider Ecosystem",
+      "file_type": "concept",
+      "source_file": "plans/gemini-oauth-provider.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Multi-provider strategy with OAuth, API keys, and device flows"
+    },
+    {
+      "id": "semantic_search",
+      "label": "Semantic Search Pattern",
+      "file_type": "concept",
+      "source_file": "plugins/memory/",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Hybrid search combining vector similarity, BM25, reranking, and entity resolution"
+    },
+    {
+      "id": "fact_extraction",
+      "label": "Fact Extraction & Memory Lifecycle",
+      "file_type": "concept",
+      "source_file": "plugins/memory/supermemory/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "description": "Auto-extraction from conversations, session-end ingest, profile-scoped containers"
+    }
+  ],
+  "edges": [
+    {
+      "source": "memory_openviking",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/openviking/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_retaindb",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/retaindb/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_supermemory",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/supermemory/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_byterover",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/byterover/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_hindsight",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/hindsight/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_holographic",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/holographic/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_honcho",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/honcho/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_mem0",
+      "target": "memory_framework",
+      "relation": "is_instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/mem0/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "semantic_search",
+      "target": "memory_retaindb",
+      "relation": "powers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/retaindb/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "semantic_search",
+      "target": "memory_openviking",
+      "relation": "powers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/openviking/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "semantic_search",
+      "target": "memory_supermemory",
+      "relation": "powers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/supermemory/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fact_extraction",
+      "target": "memory_supermemory",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/supermemory/README.md",
+      "source_location": "auto_capture: true, session-end ingest",
+      "weight": 1.0
+    },
+    {
+      "source": "fact_extraction",
+      "target": "memory_mem0",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/mem0/README.md",
+      "source_location": "server-side LLM fact extraction",
+      "weight": 1.0
+    },
+    {
+      "source": "plan_gemini_oauth",
+      "target": "oauth_standard",
+      "relation": "specifies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plans/gemini-oauth-provider.md",
+      "source_location": "PKCE S256 code challenge",
+      "weight": 1.0
+    },
+    {
+      "source": "oauth_standard",
+      "target": "ai_provider_ecosystem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "plans/gemini-oauth-provider.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_framework",
+      "target": "ai_provider_ecosystem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "plugins/memory/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memory_supermemory",
+      "target": "fact_extraction",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/supermemory/README.md",
+      "source_location": "auto_capture, auto_recall, profile_scoped_containers",
+      "weight": 1.0
+    },
+    {
+      "source": "memory_honcho",
+      "target": "semantic_search",
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "plugins/memory/honcho/README.md",
+      "source_location": "semantic search capability",
+      "weight": 1.0
+    },
+    {
+      "source": "memory_hindsight",
+      "target": "semantic_search",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "plugins/memory/hindsight/README.md",
+      "source_location": "knowledge graph with entity resolution",
+      "weight": 1.0
+    },
+    {
+      "source": "memory_holographic",
+      "target": "semantic_search",
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "plugins/memory/holographic/README.md",
+      "source_location": "FTS5 search, HRR algebra",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_memory_providers",
+      "label": "Memory Provider Ecosystem",
+      "nodes": ["memory_openviking", "memory_retaindb", "memory_supermemory", "memory_byterover", "memory_hindsight", "memory_holographic", "memory_honcho", "memory_mem0"],
+      "description": "8 pluggable memory providers forming a diverse ecosystem with cloud, local, and hybrid modes",
+      "source_file": "plugins/memory/",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "id": "hyperedge_search_architecture",
+      "label": "Semantic Search Techniques",
+      "nodes": ["semantic_search", "memory_retaindb", "memory_supermemory", "memory_hindsight", "memory_holographic"],
+      "description": "Convergence on hybrid search combining vector similarity, BM25, entity resolution, and reranking",
+      "source_file": "plugins/memory/",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85
+    },
+    {
+      "id": "hyperedge_oauth_strategy",
+      "label": "Provider Authentication Strategy",
+      "nodes": ["plan_gemini_oauth", "oauth_standard", "ai_provider_ecosystem"],
+      "description": "Multi-flow authentication supporting OAuth, API keys, and device flows for different provider capabilities",
+      "source_file": "plans/gemini-oauth-provider.md",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,841 @@
+{
+  "nodes": [
+    {
+      "id": "miro_web_design_template",
+      "label": "Miro Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "apple_web_design_template",
+      "label": "Apple Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/apple.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "figma_web_design_template",
+      "label": "Figma Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/figma.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cursor_web_design_template",
+      "label": "Cursor Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/cursor.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perplexity_web_design_template",
+      "label": "Perplexity Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cohere_web_design_template",
+      "label": "Cohere Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "huggingface_web_design_template",
+      "label": "Hugging Face Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "claude_web_design_template",
+      "label": "Claude Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "luma_web_design_template",
+      "label": "Luma Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/luma.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typeform_web_design_template",
+      "label": "Typeform Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/typeform.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "elevenlabs_web_design_template",
+      "label": "ElevenLabs Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/elevenlabs.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "midjourney_web_design_template",
+      "label": "Midjourney Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/midjourney.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pika_web_design_template",
+      "label": "Pika Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/pika.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gemini_web_design_template",
+      "label": "Gemini Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "replit_web_design_template",
+      "label": "Replit Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/replit.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "together_web_design_template",
+      "label": "Together Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/together.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "copilot_web_design_template",
+      "label": "Copilot Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/copilot.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "grok_web_design_template",
+      "label": "Grok Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/grok.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lovable_web_design_template",
+      "label": "Lovable Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mistral_web_design_template",
+      "label": "Mistral Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fal-ai_web_design_template",
+      "label": "FAL AI Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/fal-ai.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bolt_web_design_template",
+      "label": "Bolt Design System",
+      "file_type": "design_document",
+      "source_file": "skills/creative/popular-web-designs/templates/bolt.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "perplexity_web_design_template",
+      "target": "cohere_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "huggingface_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "claude_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "gemini_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "together_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "grok_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplexity_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/perplexity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "huggingface_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "claude_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "gemini_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "together_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "grok_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cohere_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cohere.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "huggingface_web_design_template",
+      "target": "claude_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "huggingface_web_design_template",
+      "target": "gemini_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "huggingface_web_design_template",
+      "target": "together_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "huggingface_web_design_template",
+      "target": "grok_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "huggingface_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "huggingface_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/huggingface.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "gemini_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "together_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "grok_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gemini_web_design_template",
+      "target": "together_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gemini_web_design_template",
+      "target": "grok_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gemini_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gemini_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "together_web_design_template",
+      "target": "grok_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/together.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "together_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/together.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "together_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/together.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "grok_web_design_template",
+      "target": "mistral_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/grok.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "grok_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/grok.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mistral_web_design_template",
+      "target": "fal-ai_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/mistral.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "miro_web_design_template",
+      "target": "figma_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/creative/popular-web-designs/templates/miro.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cursor_web_design_template",
+      "target": "replit_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cursor.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cursor_web_design_template",
+      "target": "copilot_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cursor.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cursor_web_design_template",
+      "target": "lovable_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cursor.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cursor_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/cursor.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "replit_web_design_template",
+      "target": "copilot_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/replit.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "replit_web_design_template",
+      "target": "lovable_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/replit.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "replit_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/replit.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "copilot_web_design_template",
+      "target": "lovable_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/copilot.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "copilot_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/copilot.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lovable_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/lovable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "lovable_web_design_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "claude_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/claude.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "grok_web_design_template",
+      "target": "lovable_web_design_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/grok.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "grok_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/grok.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "gemini_web_design_template",
+      "target": "lovable_web_design_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "gemini_web_design_template",
+      "target": "bolt_web_design_template",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "skills/creative/popular-web-designs/templates/gemini.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "luma_web_design_template",
+      "target": "midjourney_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "skills/creative/popular-web-designs/templates/luma.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "luma_web_design_template",
+      "target": "pika_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "skills/creative/popular-web-designs/templates/luma.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "luma_web_design_template",
+      "target": "elevenlabs_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "skills/creative/popular-web-designs/templates/luma.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "midjourney_web_design_template",
+      "target": "pika_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "skills/creative/popular-web-designs/templates/midjourney.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "midjourney_web_design_template",
+      "target": "elevenlabs_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "skills/creative/popular-web-designs/templates/midjourney.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pika_web_design_template",
+      "target": "elevenlabs_web_design_template",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "skills/creative/popular-web-designs/templates/pika.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

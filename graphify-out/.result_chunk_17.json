@@ -1,0 +1,644 @@
+{
+  "nodes": [
+    {
+      "id": "skill_axolotl",
+      "label": "Axolotl - Advanced Language Model Fine-tuning Framework",
+      "file_type": "skill",
+      "source_file": "skills/mlops/training/axolotl",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_grpo-rl-training",
+      "label": "GRPO RL Training - Group Relative Policy Optimization",
+      "file_type": "skill",
+      "source_file": "skills/mlops/training/grpo-rl-training",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_peft",
+      "label": "PEFT - Parameter-Efficient Fine-Tuning",
+      "file_type": "skill",
+      "source_file": "skills/mlops/training/peft",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_pytorch-fsdp",
+      "label": "PyTorch FSDP - Fully Sharded Data Parallel",
+      "file_type": "skill",
+      "source_file": "skills/mlops/training/pytorch-fsdp",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_trl-fine-tuning",
+      "label": "TRL Fine-tuning - Transformer Reinforcement Learning",
+      "file_type": "skill",
+      "source_file": "skills/mlops/training/trl-fine-tuning",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_unsloth",
+      "label": "Unsloth - Fast Language Model Training",
+      "file_type": "skill",
+      "source_file": "skills/mlops/training/unsloth",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_lora",
+      "label": "LoRA - Low-Rank Adaptation",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_qlora",
+      "label": "QLoRA - Quantized LoRA",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_dpo",
+      "label": "DPO - Direct Preference Optimization",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_ppo",
+      "label": "PPO - Proximal Policy Optimization",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_grpo",
+      "label": "GRPO - Group Relative Policy Optimization",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_sft",
+      "label": "SFT - Supervised Fine-Tuning",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_rlhf",
+      "label": "RLHF - Reinforcement Learning from Human Feedback",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_flash-attention",
+      "label": "Flash Attention - Efficient Attention Mechanism",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_gradient-checkpointing",
+      "label": "Gradient Checkpointing - Memory Optimization",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technique_mixed-precision",
+      "label": "Mixed Precision Training - BF16/FP16 Training",
+      "file_type": "technique",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_reward-functions",
+      "label": "Reward Functions - Custom Reward Modeling",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_dataset-preparation",
+      "label": "Dataset Preparation - Data Formatting and Validation",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_tokenizers",
+      "label": "Tokenizers - Text Tokenization Strategies",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_model-checkpointing",
+      "label": "Model Checkpointing - Training Checkpoints",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_distributed-training",
+      "label": "Distributed Training - Multi-GPU/Multi-Node Training",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_hyperparameter-tuning",
+      "label": "Hyperparameter Tuning - Configuration Optimization",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_inference-optimization",
+      "label": "Inference Optimization - Deployment Speed",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_quantization",
+      "label": "Quantization - Model Size Reduction",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "component_training-acceleration",
+      "label": "Training Acceleration - Speed Optimization",
+      "file_type": "component",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "skill_grpo-rl-training",
+      "target": "technique_grpo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_grpo-rl-training",
+      "target": "component_reward-functions",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_grpo-rl-training",
+      "target": "component_dataset-preparation",
+      "relation": "requires",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "technique_grpo",
+      "target": "technique_ppo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "technique_grpo",
+      "target": "technique_dpo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "skill_trl-fine-tuning",
+      "target": "technique_ppo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_trl-fine-tuning",
+      "target": "technique_dpo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_trl-fine-tuning",
+      "target": "technique_sft",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_trl-fine-tuning",
+      "target": "technique_rlhf",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_trl-fine-tuning",
+      "target": "component_reward-functions",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_peft",
+      "target": "technique_lora",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_peft",
+      "target": "technique_qlora",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_peft",
+      "target": "component_hyperparameter-tuning",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "technique_qlora",
+      "target": "technique_lora",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "skill_pytorch-fsdp",
+      "target": "component_distributed-training",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_pytorch-fsdp",
+      "target": "component_training-acceleration",
+      "relation": "achieves",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_pytorch-fsdp",
+      "target": "technique_gradient-checkpointing",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_unsloth",
+      "target": "component_training-acceleration",
+      "relation": "achieves",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_unsloth",
+      "target": "technique_lora",
+      "relation": "supports",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_unsloth",
+      "target": "technique_flash-attention",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_axolotl",
+      "target": "skill_peft",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "skill_axolotl",
+      "target": "component_dataset-preparation",
+      "relation": "requires",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_axolotl",
+      "target": "component_tokenizers",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_grpo-rl-training",
+      "target": "skill_trl-fine-tuning",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "skill_trl-fine-tuning",
+      "target": "skill_peft",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "skill_unsloth",
+      "target": "skill_peft",
+      "relation": "enhances",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "skill_unsloth",
+      "target": "skill_axolotl",
+      "relation": "accelerates",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "component_reward-functions",
+      "target": "component_dataset-preparation",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "component_hyperparameter-tuning",
+      "target": "component_training-acceleration",
+      "relation": "synergistic_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "component_distributed-training",
+      "target": "component_training-acceleration",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "component_model-checkpointing",
+      "target": "component_distributed-training",
+      "relation": "supports",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "component_quantization",
+      "target": "component_inference-optimization",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "component_inference-optimization",
+      "target": "technique_flash-attention",
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "technique_lora",
+      "target": "technique_mixed-precision",
+      "relation": "compatible_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "technique_gradient-checkpointing",
+      "target": "component_training-acceleration",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "technique_flash-attention",
+      "target": "component_training-acceleration",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "skills/mlops/training/*",
+      "source_location": null,
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

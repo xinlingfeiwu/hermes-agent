@@ -1,0 +1,543 @@
+{
+  "nodes": [
+    {
+      "id": "api-endpoints_polymarket",
+      "label": "Polymarket API Endpoints",
+      "file_type": "reference",
+      "source_file": "skills/research/polymarket/references/api-endpoints.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polymarket_skill",
+      "label": "Polymarket Prediction Market Skill",
+      "file_type": "skill",
+      "source_file": "skills/research/polymarket/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Teknium",
+      "contributor": null
+    },
+    {
+      "id": "checklists_research",
+      "label": "Conference Paper Checklists",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research-writing_skill",
+      "label": "Research Paper Writing Skill",
+      "file_type": "skill",
+      "source_file": "skills/research/research-paper-writing/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "citation-workflow_research",
+      "label": "Citation Management & Hallucination Prevention",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "experiment-patterns_research",
+      "label": "Experiment Design Patterns",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/experiment-patterns.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "human-evaluation_research",
+      "label": "Human Evaluation Guide for ML/AI Research",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/human-evaluation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper-types_research",
+      "label": "Paper Types Beyond Empirical ML",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/paper-types.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reviewer-guidelines_research",
+      "label": "Reviewer Guidelines & Evaluation Criteria",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/reviewer-guidelines.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reproducibility_concept",
+      "label": "Reproducibility & Code Release",
+      "file_type": "concept",
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "NeurIPS Paper Checklist - Item 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ethics_concept",
+      "label": "Ethics & Broader Impact",
+      "file_type": "concept",
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "NeurIPS Paper Checklist - Items 9-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "citation-hallucination_concept",
+      "label": "Citation Hallucination Prevention",
+      "file_type": "concept",
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": "Why Citation Verification Matters",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "experiment-infrastructure_concept",
+      "label": "Experiment Infrastructure & Design",
+      "file_type": "concept",
+      "source_file": "skills/research/research-paper-writing/references/experiment-patterns.md",
+      "source_location": "Experiment Infrastructure",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "human-study_concept",
+      "label": "Human Studies & User Evaluation",
+      "file_type": "concept",
+      "source_file": "skills/research/research-paper-writing/references/human-evaluation.md",
+      "source_location": "Study Design",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "writing-guide_research",
+      "label": "Writing Guide for Research Papers",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/writing-guide.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sources_research",
+      "label": "Academic Sources & Citation Resources",
+      "file_type": "reference",
+      "source_file": "skills/research/research-paper-writing/references/sources.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neurips_venue",
+      "label": "NeurIPS Conference",
+      "file_type": "entity",
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "NeurIPS Paper Checklist",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "icml_venue",
+      "label": "ICML Conference",
+      "file_type": "entity",
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "ICML Paper Checklist",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "acl_venue",
+      "label": "ACL Conference",
+      "file_type": "entity",
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "ACL Requirements",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "semantic-scholar_api",
+      "label": "Semantic Scholar API",
+      "file_type": "entity",
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": "Citation APIs Overview",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crossref_api",
+      "label": "CrossRef API",
+      "file_type": "entity",
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": "Citation APIs Overview",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polymarket_markets",
+      "label": "Polymarket Market Structure",
+      "file_type": "concept",
+      "source_file": "skills/research/polymarket/SKILL.md",
+      "source_location": "Key Concepts",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polymarket_gamma-api",
+      "label": "Gamma API - Discovery & Search",
+      "file_type": "entity",
+      "source_file": "skills/research/polymarket/references/api-endpoints.md",
+      "source_location": "Gamma API Section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polymarket_clob-api",
+      "label": "CLOB API - Real-time Prices",
+      "file_type": "entity",
+      "source_file": "skills/research/polymarket/references/api-endpoints.md",
+      "source_location": "CLOB API Section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "api-endpoints_polymarket",
+      "target": "polymarket_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/polymarket/SKILL.md",
+      "source_location": "See references/api-endpoints.md",
+      "weight": 1.0
+    },
+    {
+      "source": "checklists_research",
+      "target": "research-writing_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "citation-workflow_research",
+      "target": "research-writing_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "experiment-patterns_research",
+      "target": "research-writing_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "human-evaluation_research",
+      "target": "research-writing_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reviewer-guidelines_research",
+      "target": "research-writing_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reproducibility_concept",
+      "target": "checklists_research",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "Reproducibility Checklist (Item 4)",
+      "weight": 1.0
+    },
+    {
+      "source": "ethics_concept",
+      "target": "checklists_research",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "Broader Impacts (Items 9-11, 10)",
+      "weight": 1.0
+    },
+    {
+      "source": "citation-hallucination_concept",
+      "target": "citation-workflow_research",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": "Why Citation Verification Matters",
+      "weight": 1.0
+    },
+    {
+      "source": "experiment-infrastructure_concept",
+      "target": "experiment-patterns_research",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/experiment-patterns.md",
+      "source_location": "Experiment Infrastructure",
+      "weight": 1.0
+    },
+    {
+      "source": "human-study_concept",
+      "target": "human-evaluation_research",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/human-evaluation.md",
+      "source_location": "Study Design",
+      "weight": 1.0
+    },
+    {
+      "source": "neurips_venue",
+      "target": "checklists_research",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "NeurIPS Paper Checklist",
+      "weight": 1.0
+    },
+    {
+      "source": "icml_venue",
+      "target": "checklists_research",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "ICML Paper Checklist",
+      "weight": 1.0
+    },
+    {
+      "source": "acl_venue",
+      "target": "checklists_research",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "source_location": "ACL Requirements",
+      "weight": 1.0
+    },
+    {
+      "source": "semantic-scholar_api",
+      "target": "citation-workflow_research",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": "Citation APIs Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "crossref_api",
+      "target": "citation-workflow_research",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "source_location": "Citation APIs Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "polymarket_markets",
+      "target": "polymarket_skill",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/polymarket/SKILL.md",
+      "source_location": "Key Concepts",
+      "weight": 1.0
+    },
+    {
+      "source": "polymarket_gamma-api",
+      "target": "api-endpoints_polymarket",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/polymarket/references/api-endpoints.md",
+      "source_location": "Gamma API Section",
+      "weight": 1.0
+    },
+    {
+      "source": "polymarket_clob-api",
+      "target": "api-endpoints_polymarket",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/research/polymarket/references/api-endpoints.md",
+      "source_location": "CLOB API Section",
+      "weight": 1.0
+    },
+    {
+      "source": "writing-guide_research",
+      "target": "research-writing_skill",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/research/research-paper-writing/",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "sources_research",
+      "target": "citation-workflow_research",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/research/research-paper-writing/references/",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "paper-types_research",
+      "target": "reviewer-guidelines_research",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "skills/research/research-paper-writing/references/",
+      "source_location": null,
+      "weight": 0.85
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "research-writing-workflow",
+      "label": "Research Paper Writing Workflow",
+      "description": "Interconnected concepts for complete paper writing: from design (experiment patterns, human studies), to verification (citations, reproducibility), to submission (checklists, reviewer guidelines)",
+      "nodes": [
+        "experiment-patterns_research",
+        "human-evaluation_research",
+        "citation-workflow_research",
+        "checklists_research",
+        "reviewer-guidelines_research"
+      ],
+      "relation": "workflow_pipeline",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/research/research-paper-writing/",
+      "weight": 0.85
+    },
+    {
+      "id": "conference-submission-checklist",
+      "label": "Conference Submission Requirements",
+      "description": "Multi-venue checklist coordination: NeurIPS, ICML, ICLR, ACL conferences with overlapping and venue-specific requirements",
+      "nodes": [
+        "neurips_venue",
+        "icml_venue",
+        "acl_venue",
+        "checklists_research"
+      ],
+      "relation": "venue_specification",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "skills/research/research-paper-writing/references/checklists.md",
+      "weight": 1.0
+    },
+    {
+      "id": "citation-verification-tooling",
+      "label": "Citation Verification Infrastructure",
+      "description": "Programmatic verification of citations using multiple APIs (Semantic Scholar, CrossRef) to prevent hallucination and ensure accuracy",
+      "nodes": [
+        "semantic-scholar_api",
+        "crossref_api",
+        "citation-workflow_research",
+        "citation-hallucination_concept"
+      ],
+      "relation": "technical_implementation",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/research/research-paper-writing/references/citation-workflow.md",
+      "weight": 0.9
+    }
+  ],
+  "input_tokens": 3200,
+  "output_tokens": 2850
+}

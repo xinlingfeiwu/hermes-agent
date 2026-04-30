@@ -1,0 +1,882 @@
+{
+  "nodes": [
+    {
+      "id": "template_kraken",
+      "label": "Design System: Kraken",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kraken_colors",
+      "label": "Kraken Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kraken_typography",
+      "label": "Kraken Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kraken_components",
+      "label": "Kraken Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_runwayml",
+      "label": "Design System: Runway",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runwayml_colors",
+      "label": "Runway Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runwayml_typography",
+      "label": "Runway Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runwayml_components",
+      "label": "Runway Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_zapier",
+      "label": "Design System: Zapier",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zapier_colors",
+      "label": "Zapier Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zapier_typography",
+      "label": "Zapier Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zapier_components",
+      "label": "Zapier Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_framer",
+      "label": "Design System: Framer",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framer_colors",
+      "label": "Framer Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framer_typography",
+      "label": "Framer Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framer_components",
+      "label": "Framer Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_intercom",
+      "label": "Design System: Intercom",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intercom_colors",
+      "label": "Intercom Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intercom_typography",
+      "label": "Intercom Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intercom_components",
+      "label": "Intercom Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_superhuman",
+      "label": "Design System: Superhuman",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superhuman_colors",
+      "label": "Superhuman Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superhuman_typography",
+      "label": "Superhuman Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superhuman_components",
+      "label": "Superhuman Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_raycast",
+      "label": "Design System: Raycast",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "raycast_colors",
+      "label": "Raycast Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "raycast_typography",
+      "label": "Raycast Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "raycast_components",
+      "label": "Raycast Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "template_webflow",
+      "label": "Design System: Webflow",
+      "file_type": "document",
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webflow_colors",
+      "label": "Webflow Color System",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webflow_typography",
+      "label": "Webflow Typography Rules",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webflow_components",
+      "label": "Webflow Components",
+      "file_type": "design_element",
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collection_popular_web_designs",
+      "label": "Popular Web Designs Template Collection",
+      "file_type": "collection",
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "template_kraken",
+      "target": "kraken_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_kraken",
+      "target": "kraken_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_kraken",
+      "target": "kraken_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/kraken.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_runwayml",
+      "target": "runwayml_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_runwayml",
+      "target": "runwayml_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_runwayml",
+      "target": "runwayml_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/runwayml.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_zapier",
+      "target": "zapier_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_zapier",
+      "target": "zapier_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_zapier",
+      "target": "zapier_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/zapier.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_framer",
+      "target": "framer_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_framer",
+      "target": "framer_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_framer",
+      "target": "framer_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/framer.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_intercom",
+      "target": "intercom_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_intercom",
+      "target": "intercom_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_intercom",
+      "target": "intercom_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/intercom.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_superhuman",
+      "target": "superhuman_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_superhuman",
+      "target": "superhuman_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_superhuman",
+      "target": "superhuman_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/superhuman.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_raycast",
+      "target": "raycast_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_raycast",
+      "target": "raycast_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_raycast",
+      "target": "raycast_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/raycast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_webflow",
+      "target": "webflow_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_webflow",
+      "target": "webflow_typography",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_webflow",
+      "target": "webflow_components",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/webflow.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_runwayml",
+      "target": "template_descript",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_runwayml",
+      "target": "template_heygen",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_superhuman",
+      "target": "template_coda",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_raycast",
+      "target": "template_atlassian",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "template_descript",
+      "target": "template_heygen",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_kraken",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_runwayml",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_zapier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_framer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_intercom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_brex",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_superhuman",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_coda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_raycast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_retool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_captions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_atlassian",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_descript",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_tailwindcss",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_craft",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_heygen",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_poe",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_mercari",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_groq",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_warpcast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_webflow",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collection_popular_web_designs",
+      "target": "template_gitbook",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/creative/popular-web-designs/templates/",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

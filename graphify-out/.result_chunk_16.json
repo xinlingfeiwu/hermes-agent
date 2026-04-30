@@ -1,0 +1,463 @@
+{
+  "nodes": [
+    {
+      "id": "audiocraft_skill_main",
+      "label": "AudioCraft: Audio Generation (SKILL.md)",
+      "file_type": "document",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_musicgen",
+      "label": "MusicGen - Text-to-Music",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_audiogen",
+      "label": "AudioGen - Text-to-Sound Effects",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_encodec",
+      "label": "EnCodec - Neural Audio Codec",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_melody_conditioning",
+      "label": "Melody Conditioning with Chroma",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_style_generation",
+      "label": "Style-Conditioned Music Generation",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_troubleshooting",
+      "label": "AudioCraft Troubleshooting Guide",
+      "file_type": "document",
+      "source_file": "skills/mlops/models/audiocraft/references/troubleshooting.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocraft_advanced",
+      "label": "AudioCraft Advanced Usage Guide",
+      "file_type": "document",
+      "source_file": "skills/mlops/models/audiocraft/references/advanced-usage.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_skill_main",
+      "label": "Stable Diffusion Image Generation (SKILL.md)",
+      "file_type": "document",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_t2i",
+      "label": "Text-to-Image Generation",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_controlnet",
+      "label": "ControlNet Spatial Conditioning",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_inpainting",
+      "label": "Inpainting - Masked Region Filling",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_lora",
+      "label": "LoRA Adapters for Fine-tuning",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_advanced",
+      "label": "Stable Diffusion Advanced Usage",
+      "file_type": "document",
+      "source_file": "skills/mlops/models/stable-diffusion/references/advanced-usage.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stable_diffusion_troubleshooting",
+      "label": "Stable Diffusion Troubleshooting",
+      "file_type": "document",
+      "source_file": "skills/mlops/models/stable-diffusion/references/troubleshooting.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "diffusers_library",
+      "label": "HuggingFace Diffusers Library",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "torch_framework",
+      "label": "PyTorch Framework",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cuda_optimization",
+      "label": "CUDA Memory Optimization",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/references/troubleshooting.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_generation_ml",
+      "label": "Audio Generation Techniques",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_generation_ml",
+      "label": "Image Generation Techniques",
+      "file_type": "concept",
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "audiocraft_skill_main",
+      "target": "audiocraft_musicgen",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_skill_main",
+      "target": "audiocraft_audiogen",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 30",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_skill_main",
+      "target": "audiocraft_encodec",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_musicgen",
+      "target": "audiocraft_melody_conditioning",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 159",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_musicgen",
+      "target": "audiocraft_style_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 162",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_skill_main",
+      "target": "audiocraft_troubleshooting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 559",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_skill_main",
+      "target": "audiocraft_advanced",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 558",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "stable_diffusion_t2i",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "stable_diffusion_controlnet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 32",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "stable_diffusion_inpainting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "stable_diffusion_lora",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "diffusers_library",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "stable_diffusion_advanced",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 514",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "stable_diffusion_troubleshooting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 515",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_skill_main",
+      "target": "torch_framework",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "cuda_optimization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/models/stable-diffusion/references/troubleshooting.md",
+      "source_location": "line 48-85",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_skill_main",
+      "target": "audio_generation_ml",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/models/audiocraft/SKILL.md",
+      "source_location": "line 18-26",
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_skill_main",
+      "target": "image_generation_ml",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "skills/mlops/models/stable-diffusion/SKILL.md",
+      "source_location": "line 20-26",
+      "weight": 1.0
+    },
+    {
+      "source": "audiocraft_advanced",
+      "target": "audiocraft_troubleshooting",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/mlops/models/audiocraft/references/",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stable_diffusion_advanced",
+      "target": "stable_diffusion_troubleshooting",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "skills/mlops/models/stable-diffusion/references/",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "nodes": [
+        "audiocraft_musicgen",
+        "audiocraft_style_generation",
+        "audiocraft_melody_conditioning"
+      ],
+      "relation": "conditioning_techniques",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "description": "MusicGen supports multiple conditioning modalities for controlling music generation"
+    },
+    {
+      "nodes": [
+        "stable_diffusion_t2i",
+        "stable_diffusion_controlnet",
+        "stable_diffusion_lora"
+      ],
+      "relation": "generation_enhancement_techniques",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "description": "Multiple methods to enhance and customize image generation in Stable Diffusion"
+    },
+    {
+      "nodes": [
+        "audiocraft_troubleshooting",
+        "stable_diffusion_troubleshooting",
+        "cuda_optimization"
+      ],
+      "relation": "common_optimization_challenges",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "description": "Both audio and image generation models face similar CUDA memory and performance optimization challenges"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

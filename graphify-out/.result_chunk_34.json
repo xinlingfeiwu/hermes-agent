@@ -1,0 +1,303 @@
+{
+  "nodes": [
+    {
+      "id": "cli_window",
+      "label": "CLI Terminal Window",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "window_titlebar",
+      "label": "Window Title Bar",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "banner_section",
+      "label": "Caduceus Banner Section",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "banner_icon",
+      "label": "HERMES AGENT Banner Icon",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "banner_info_left",
+      "label": "Banner Info Box (Left)",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "banner_info_right",
+      "label": "Banner Info Box (Right)",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "banner_details",
+      "label": "Banner Details",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "conversation_output_area",
+      "label": "Conversation Output Area",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "conversation_header",
+      "label": "Conversation Output Header",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tool_output_messages",
+      "label": "Tool Output Messages",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agent_responses",
+      "label": "Agent Responses",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "input_prompt_area",
+      "label": "Fixed Input Prompt Area",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "prompt_symbol",
+      "label": "Prompt Symbol",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "autocomplete_hint",
+      "label": "Slash Command Autocomplete",
+      "file_type": "image",
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "cli_window",
+      "target": "window_titlebar",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cli_window",
+      "target": "banner_section",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cli_window",
+      "target": "conversation_output_area",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cli_window",
+      "target": "input_prompt_area",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "banner_section",
+      "target": "banner_icon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "banner_section",
+      "target": "banner_info_left",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "banner_section",
+      "target": "banner_info_right",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "banner_info_left",
+      "target": "banner_details",
+      "relation": "displays",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "banner_info_right",
+      "target": "banner_details",
+      "relation": "displays",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "conversation_output_area",
+      "target": "conversation_header",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "conversation_output_area",
+      "target": "tool_output_messages",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "conversation_output_area",
+      "target": "agent_responses",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "input_prompt_area",
+      "target": "prompt_symbol",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "input_prompt_area",
+      "target": "autocomplete_hint",
+      "relation": "has_part",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/static/img/docs/cli-layout.svg",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

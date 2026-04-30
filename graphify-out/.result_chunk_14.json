@@ -1,0 +1,314 @@
+{
+  "nodes": [
+    {
+      "id": "songsee_skill",
+      "label": "Songsee Audio Visualization",
+      "file_type": "document",
+      "source_file": "skills/media/songsee/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/steipete/songsee",
+      "captured_at": "2026-04-10T14:25:28.870465",
+      "author": "community",
+      "contributor": null
+    },
+    {
+      "id": "youtube_content_skill",
+      "label": "YouTube Content Tool",
+      "file_type": "document",
+      "source_file": "skills/media/youtube-content/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870474",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "youtube_output_formats",
+      "label": "YouTube Output Formats",
+      "file_type": "document",
+      "source_file": "skills/media/youtube-content/references/output-formats.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870476",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mlops_skill",
+      "label": "MLOps Skills",
+      "file_type": "document",
+      "source_file": "skills/mlops/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870477",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inference_skill",
+      "label": "Model Inference and Optimization",
+      "file_type": "document",
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870478",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gguf_skill",
+      "label": "GGUF Quantization Format",
+      "file_type": "document",
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/ggml-org/llama.cpp",
+      "captured_at": "2026-04-10T14:25:28.870479",
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "gguf_advanced",
+      "label": "GGUF Advanced Usage",
+      "file_type": "document",
+      "source_file": "skills/mlops/inference/gguf/references/advanced-usage.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870480",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "guidance_skill",
+      "label": "Guidance Constrained Generation",
+      "file_type": "document",
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": null,
+      "source_url": "https://github.com/guidance-ai/guidance",
+      "captured_at": "2026-04-10T14:25:28.870481",
+      "author": "Orchestra Research",
+      "contributor": null
+    },
+    {
+      "id": "guidance_examples",
+      "label": "Guidance Production Examples",
+      "file_type": "document",
+      "source_file": "skills/mlops/inference/guidance/references/examples.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870482",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_visualization_concept",
+      "label": "Audio Feature Visualization",
+      "file_type": "concept",
+      "source_file": "skills/media/songsee/SKILL.md",
+      "source_location": "lines 47-62",
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870483",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transcript_extraction_concept",
+      "label": "Transcript Extraction and Transformation",
+      "file_type": "concept",
+      "source_file": "skills/media/youtube-content/SKILL.md",
+      "source_location": "lines 59-65",
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870484",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quantization_concept",
+      "label": "Model Quantization",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "lines 101-126",
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870485",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constrained_generation_concept",
+      "label": "Constrained LLM Generation",
+      "file_type": "concept",
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "lines 16-24",
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870486",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llama_cpp_tool",
+      "label": "llama.cpp Inference Engine",
+      "file_type": "tool",
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "lines 40-100",
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870487",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "guidance_framework",
+      "label": "Guidance Framework",
+      "file_type": "tool",
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "lines 28-37",
+      "source_url": null,
+      "captured_at": "2026-04-10T14:25:28.870488",
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "youtube_content_skill",
+      "target": "youtube_output_formats",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/media/youtube-content/SKILL.md",
+      "source_location": "line 40",
+      "weight": 1.0
+    },
+    {
+      "source": "youtube_content_skill",
+      "target": "transcript_extraction_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/media/youtube-content/SKILL.md",
+      "source_location": "lines 59-65",
+      "weight": 1.0
+    },
+    {
+      "source": "songsee_skill",
+      "target": "audio_visualization_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/media/songsee/SKILL.md",
+      "source_location": "lines 47-62",
+      "weight": 1.0
+    },
+    {
+      "source": "inference_skill",
+      "target": "gguf_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_skill",
+      "target": "guidance_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gguf_skill",
+      "target": "gguf_advanced",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "line 421",
+      "weight": 1.0
+    },
+    {
+      "source": "gguf_skill",
+      "target": "llama_cpp_tool",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "lines 40-100",
+      "weight": 1.0
+    },
+    {
+      "source": "gguf_skill",
+      "target": "quantization_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/gguf/SKILL.md",
+      "source_location": "lines 101-126",
+      "weight": 1.0
+    },
+    {
+      "source": "guidance_skill",
+      "target": "guidance_examples",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "line 573",
+      "weight": 1.0
+    },
+    {
+      "source": "guidance_skill",
+      "target": "constrained_generation_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "lines 16-24",
+      "weight": 1.0
+    },
+    {
+      "source": "guidance_skill",
+      "target": "guidance_framework",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/guidance/SKILL.md",
+      "source_location": "lines 28-37",
+      "weight": 1.0
+    },
+    {
+      "source": "mlops_skill",
+      "target": "inference_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gguf_advanced",
+      "target": "quantization_concept",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "skills/mlops/inference/gguf/references/advanced-usage.md",
+      "source_location": "lines 113-141",
+      "weight": 0.8
+    },
+    {
+      "source": "guidance_examples",
+      "target": "constrained_generation_concept",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/mlops/inference/guidance/references/examples.md",
+      "source_location": "lines 1-100",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

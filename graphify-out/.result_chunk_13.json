@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    {
+      "id": "codebase_inspection_skill",
+      "label": "Codebase Inspection Skill",
+      "file_type": "skill",
+      "source_file": "skills/github/codebase-inspection/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "github_auth_skill",
+      "label": "GitHub Authentication Setup Skill",
+      "file_type": "skill",
+      "source_file": "skills/github/github-auth/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "github_code_review_skill",
+      "label": "GitHub Code Review Skill",
+      "file_type": "skill",
+      "source_file": "skills/github/github-code-review/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "media_skills_description",
+      "label": "Media Skills Collection",
+      "file_type": "document",
+      "source_file": "skills/media/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "midjourney_skill",
+      "label": "Midjourney Image Generation Skill",
+      "file_type": "skill",
+      "source_file": "skills/media/midjourney/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Hermes Agent",
+      "contributor": null
+    },
+    {
+      "id": "songsee_skill",
+      "label": "Songsee Audio Visualization Skill",
+      "file_type": "skill",
+      "source_file": "skills/media/songsee/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "community",
+      "contributor": null
+    },
+    {
+      "id": "pygount_tool",
+      "label": "Pygount Lines of Code Analyzer",
+      "file_type": "tool",
+      "source_file": "skills/github/codebase-inspection/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "git_authentication",
+      "label": "Git HTTPS and SSH Authentication",
+      "file_type": "concept",
+      "source_file": "skills/github/github-auth/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gh_cli_tool",
+      "label": "GitHub CLI Tool",
+      "file_type": "tool",
+      "source_file": "skills/github/github-auth/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "code_review_process",
+      "label": "Structured Code Review Process",
+      "file_type": "concept",
+      "source_file": "skills/github/github-code-review/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_visualization",
+      "label": "Audio Feature Visualization",
+      "file_type": "concept",
+      "source_file": "skills/media/songsee/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "codebase_inspection_skill",
+      "target": "pygount_tool",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/github/codebase-inspection/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codebase_inspection_skill",
+      "target": "github_repo_management",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/github/codebase-inspection/SKILL.md",
+      "source_location": "metadata.hermes.related_skills",
+      "weight": 0.8
+    },
+    {
+      "source": "github_auth_skill",
+      "target": "git_authentication",
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/github/github-auth/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "github_auth_skill",
+      "target": "gh_cli_tool",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/github/github-auth/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "github_code_review_skill",
+      "target": "code_review_process",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/github/github-code-review/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "github_code_review_skill",
+      "target": "github_auth_skill",
+      "relation": "depends_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/github/github-code-review/SKILL.md",
+      "source_location": "prerequisites",
+      "weight": 1.0
+    },
+    {
+      "source": "media_skills_description",
+      "target": "midjourney_skill",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "skills/media/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "media_skills_description",
+      "target": "songsee_skill",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "skills/media/DESCRIPTION.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "songsee_skill",
+      "target": "audio_visualization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/media/songsee/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "github_workflow",
+      "name": "GitHub Development Workflow",
+      "description": "Integration of authentication, code review, and repository management skills",
+      "nodes": ["github_auth_skill", "github_code_review_skill", "codebase_inspection_skill"],
+      "relation": "workflow",
+      "source_file": "skills/github/",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7
+    }
+  ],
+  "input_tokens": 3247,
+  "output_tokens": 1856
+}

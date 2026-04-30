@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "honcho_memory_provider",
+      "label": "Honcho Cross-Session Memory",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/honcho.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fallback_providers_feature",
+      "label": "Fallback Providers",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/fallback-providers.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_generation_feature",
+      "label": "Image Generation",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/image-generation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hermes_search_feature",
+      "label": "Hermes Search",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/hermes-search.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tool_output_feature",
+      "label": "Tool Output Management",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/tool-output.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "session_recap_feature",
+      "label": "Session Recap",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/session-recap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "voice_feature",
+      "label": "Voice & Text-to-Speech",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/voice.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subagent_delegation_feature",
+      "label": "Subagent Delegation",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/subagent-delegation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "telegram_messaging",
+      "label": "Telegram Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/telegram.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "discord_messaging",
+      "label": "Discord Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/discord.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slack_messaging",
+      "label": "Slack Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/slack.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "whatsapp_messaging",
+      "label": "WhatsApp Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "signal_messaging",
+      "label": "Signal Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "homeassistant_messaging",
+      "label": "Home Assistant Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/home-assistant.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openwebui_messaging",
+      "label": "Open WebUI Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mattermost_messaging",
+      "label": "Mattermost Messaging Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "image_generation_feature",
+      "target": "tool_output_feature",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "website/docs/user-guide/features/image-generation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "voice_feature",
+      "target": "telegram_messaging",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/user-guide/features/voice.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "voice_feature",
+      "target": "discord_messaging",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/user-guide/features/voice.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "voice_feature",
+      "target": "slack_messaging",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/user-guide/features/voice.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fallback_providers_feature",
+      "target": "honcho_memory_provider",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "website/docs/user-guide/features/fallback-providers.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hermes_search_feature",
+      "target": "session_recap_feature",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "website/docs/user-guide/features/hermes-search.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subagent_delegation_feature",
+      "target": "tool_output_feature",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "website/docs/user-guide/features/subagent-delegation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "telegram_messaging",
+      "target": "discord_messaging",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "website/docs/user-guide/messaging/telegram.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "discord_messaging",
+      "target": "slack_messaging",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "website/docs/user-guide/messaging/discord.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slack_messaging",
+      "target": "mattermost_messaging",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/user-guide/messaging/slack.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "whatsapp_messaging",
+      "target": "signal_messaging",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openwebui_messaging",
+      "target": "homeassistant_messaging",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "voice_across_platforms",
+      "label": "Voice Integration Across Messaging Platforms",
+      "nodes": ["voice_feature", "telegram_messaging", "discord_messaging", "slack_messaging"],
+      "relation": "shared_capability",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "description": "Voice features are available across multiple messaging platforms"
+    },
+    {
+      "id": "messaging_platform_cluster",
+      "label": "Team Communication Messaging Platforms",
+      "nodes": ["telegram_messaging", "discord_messaging", "slack_messaging", "mattermost_messaging"],
+      "relation": "platform_category",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "description": "Core team communication and collaboration platforms"
+    },
+    {
+      "id": "agent_capability_cluster",
+      "label": "Core Agent Features",
+      "nodes": ["hermes_search_feature", "session_recap_feature", "tool_output_feature", "subagent_delegation_feature"],
+      "relation": "feature_category",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "description": "Core features for agent capabilities and conversation management"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

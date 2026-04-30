@@ -1,0 +1,2138 @@
+{
+  "nodes": [
+    {
+      "id": "blackbox_skill",
+      "label": "blackbox",
+      "file_type": "skill",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegate_coding_tasks_to_blackbox_ai_cli_agent_multi_model_agent_with_built_in_judge_that_runs_task_description",
+      "label": "Delegate coding tasks to Blackbox AI CLI agent. Multi-model agent with built-in judge that runs task...",
+      "file_type": "document",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coding_agent_tag",
+      "label": "Coding-Agent",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackbox_tag",
+      "label": "Blackbox",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multi_agent_tag",
+      "label": "Multi-Agent",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "judge_tag",
+      "label": "Judge",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multi_model_tag",
+      "label": "Multi-Model",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "claude_code_skill",
+      "label": "claude-code",
+      "file_type": "skill",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "codex_skill",
+      "label": "codex",
+      "file_type": "skill",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hermes_agent_skill",
+      "label": "hermes-agent",
+      "file_type": "skill",
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "honcho_skill",
+      "label": "honcho",
+      "file_type": "skill",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "configure_and_use_honcho_memory_with_hermes_cross_session_user_modeling_multi_profile_peer_isola_description",
+      "label": "Configure and use Honcho memory with Hermes -- cross-session user modeling, multi-profile peer isola...",
+      "file_type": "document",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "honcho_tag",
+      "label": "Honcho",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "memory_tag",
+      "label": "Memory",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "profiles_tag",
+      "label": "Profiles",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "observation_tag",
+      "label": "Observation",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialectic_tag",
+      "label": "Dialectic",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "user_modeling_tag",
+      "label": "User-Modeling",
+      "file_type": "tag",
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_skill",
+      "label": "base",
+      "file_type": "skill",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "query_base_ethereum_l2_blockchain_data_with_usd_pricing_wallet_balances_token_info_transaction_description",
+      "label": "Query Base (Ethereum L2) blockchain data with USD pricing \u2014 wallet balances, token info, transaction...",
+      "file_type": "document",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_tag",
+      "label": "Base",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blockchain_tag",
+      "label": "Blockchain",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crypto_tag",
+      "label": "Crypto",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "web3_tag",
+      "label": "Web3",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rpc_tag",
+      "label": "RPC",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "de_fi_tag",
+      "label": "DeFi",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "evm_tag",
+      "label": "EVM",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "l2_tag",
+      "label": "L2",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ethereum_tag",
+      "label": "Ethereum",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "solana_skill",
+      "label": "solana",
+      "file_type": "skill",
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "query_solana_blockchain_data_with_usd_pricing_wallet_balances_token_portfolios_with_values_trans_description",
+      "label": "Query Solana blockchain data with USD pricing \u2014 wallet balances, token portfolios with values, trans...",
+      "file_type": "document",
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "solana_tag",
+      "label": "Solana",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nft_tag",
+      "label": "NFT",
+      "file_type": "tag",
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "one_three_one_rule_skill",
+      "label": "one-three-one-rule",
+      "file_type": "skill",
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "communication_tag",
+      "label": "communication",
+      "file_type": "tag",
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decision_making_tag",
+      "label": "decision-making",
+      "file_type": "tag",
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proposals_tag",
+      "label": "proposals",
+      "file_type": "tag",
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trade_offs_tag",
+      "label": "trade-offs",
+      "file_type": "tag",
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blender_mcp_skill",
+      "label": "blender-mcp",
+      "file_type": "skill",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_blender_directly_from_hermes_via_socket_connection_to_the_blender_mcp_addon_create_3_d_objec_description",
+      "label": "Control Blender directly from Hermes via socket connection to the blender-mcp addon. Create 3D objec...",
+      "file_type": "document",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blender_tag",
+      "label": "blender",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "3d_tag",
+      "label": "3d",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_tag",
+      "label": "animation",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modeling_tag",
+      "label": "modeling",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bpy_tag",
+      "label": "bpy",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mcp_tag",
+      "label": "mcp",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meme_generation_skill",
+      "label": "meme-generation",
+      "file_type": "skill",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generate_real_meme_images_by_picking_a_template_and_overlaying_text_with_pillow_produces_actual_pn_description",
+      "label": "Generate real meme images by picking a template and overlaying text with Pillow. Produces actual .pn...",
+      "file_type": "document",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "creative_tag",
+      "label": "creative",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "memes_tag",
+      "label": "memes",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "humor_tag",
+      "label": "humor",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "images_tag",
+      "label": "images",
+      "file_type": "tag",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ascii_art_skill",
+      "label": "ascii-art",
+      "file_type": "skill",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generative_widgets_skill",
+      "label": "generative-widgets",
+      "file_type": "skill",
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inference_sh_cli_skill",
+      "label": "inference-sh-cli",
+      "file_type": "skill",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "run_150_ai_apps_via_inference_sh_cli_infsh_image_generation_video_creation_ll_ms_search_3_d_description",
+      "label": "Run 150+ AI apps via inference.sh CLI (infsh) \u2014 image generation, video creation, LLMs, search, 3D, ...",
+      "file_type": "document",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_tag",
+      "label": "AI",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_generation_tag",
+      "label": "image-generation",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "video_tag",
+      "label": "video",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llm_tag",
+      "label": "LLM",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "search_tag",
+      "label": "search",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inference_tag",
+      "label": "inference",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "flux_tag",
+      "label": "FLUX",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "veo_tag",
+      "label": "Veo",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "claude_tag",
+      "label": "Claude",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_management_skill",
+      "label": "docker-management",
+      "file_type": "skill",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "manage_docker_containers_images_volumes_networks_and_compose_stacks_lifecycle_ops_debugging_description",
+      "label": "Manage Docker containers, images, volumes, networks, and Compose stacks \u2014 lifecycle ops, debugging, ...",
+      "file_type": "document",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_tag",
+      "label": "docker",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "containers_tag",
+      "label": "containers",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "devops_tag",
+      "label": "devops",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "infrastructure_tag",
+      "label": "infrastructure",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compose_tag",
+      "label": "compose",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumes_tag",
+      "label": "volumes",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "networks_tag",
+      "label": "networks",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugging_tag",
+      "label": "debugging",
+      "file_type": "tag",
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agentmail_skill",
+      "label": "agentmail",
+      "file_type": "skill",
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "give_the_agent_its_own_dedicated_email_inbox_via_agent_mail_send_receive_and_manage_email_autonomo_description",
+      "label": "Give the agent its own dedicated email inbox via AgentMail. Send, receive, and manage email autonomo...",
+      "file_type": "document",
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "email_tag",
+      "label": "email",
+      "file_type": "tag",
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agentmail_tag",
+      "label": "agentmail",
+      "file_type": "tag",
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuroskill_bci_skill",
+      "label": "neuroskill-bci",
+      "file_type": "skill",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bci_tag",
+      "label": "BCI",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neurofeedback_tag",
+      "label": "neurofeedback",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "health_tag",
+      "label": "health",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "focus_tag",
+      "label": "focus",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eeg_tag",
+      "label": "EEG",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cognitive_state_tag",
+      "label": "cognitive-state",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "biometrics_tag",
+      "label": "biometrics",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuroskill_tag",
+      "label": "neuroskill",
+      "file_type": "tag",
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "blackbox_skill",
+      "target": "delegate_coding_tasks_to_blackbox_ai_cli_agent_multi_model_agent_with_built_in_judge_that_runs_task_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "coding_agent_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "blackbox_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "multi_agent_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "judge_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "multi_model_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "claude_code_skill",
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "codex_skill",
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "hermes_agent_skill",
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "configure_and_use_honcho_memory_with_hermes_cross_session_user_modeling_multi_profile_peer_isola_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "honcho_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "memory_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "profiles_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "observation_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "dialectic_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "user_modeling_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "hermes_agent_skill",
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "query_base_ethereum_l2_blockchain_data_with_usd_pricing_wallet_balances_token_info_transaction_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "base_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "blockchain_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "crypto_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "web3_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "rpc_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "de_fi_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "evm_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "l2_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "ethereum_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/base/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "query_solana_blockchain_data_with_usd_pricing_wallet_balances_token_portfolios_with_values_trans_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "solana_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "blockchain_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "crypto_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "web3_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "rpc_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "de_fi_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solana_skill",
+      "target": "nft_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "one_three_one_rule_skill",
+      "target": "communication_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "one_three_one_rule_skill",
+      "target": "decision_making_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "one_three_one_rule_skill",
+      "target": "proposals_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "one_three_one_rule_skill",
+      "target": "trade_offs_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "control_blender_directly_from_hermes_via_socket_connection_to_the_blender_mcp_addon_create_3_d_objec_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "blender_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "3d_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "animation_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "modeling_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "bpy_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "mcp_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "generate_real_meme_images_by_picking_a_template_and_overlaying_text_with_pillow_produces_actual_pn_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "creative_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "memes_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "humor_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "images_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "ascii_art_skill",
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meme_generation_skill",
+      "target": "generative_widgets_skill",
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "run_150_ai_apps_via_inference_sh_cli_infsh_image_generation_video_creation_ll_ms_search_3_d_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "ai_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "image_generation_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "video_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "llm_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "search_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "inference_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "flux_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "veo_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "claude_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/cli/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "manage_docker_containers_images_volumes_networks_and_compose_stacks_lifecycle_ops_debugging_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "docker_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "containers_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "devops_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "infrastructure_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "compose_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "images_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "volumes_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "networks_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "docker_management_skill",
+      "target": "debugging_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentmail_skill",
+      "target": "give_the_agent_its_own_dedicated_email_inbox_via_agent_mail_send_receive_and_manage_email_autonomo_description",
+      "relation": "has_description",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentmail_skill",
+      "target": "email_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentmail_skill",
+      "target": "communication_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentmail_skill",
+      "target": "agentmail_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentmail_skill",
+      "target": "mcp_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/email/agentmail/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "bci_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "neurofeedback_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "health_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "focus_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "eeg_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "cognitive_state_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "biometrics_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuroskill_bci_skill",
+      "target": "neuroskill_tag",
+      "relation": "has_tag",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "base_skill",
+      "target": "solana_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blender_mcp_skill",
+      "target": "meme_generation_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inference_sh_cli_skill",
+      "target": "docker_management_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "hermes_agent_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "honcho_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackbox_skill",
+      "target": "agentmail_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hermes_agent_skill",
+      "target": "honcho_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hermes_agent_skill",
+      "target": "agentmail_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "honcho_skill",
+      "target": "agentmail_skill",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "cross-domain",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "blackbox_tags",
+      "label": "blackbox tags",
+      "nodes": [
+        "coding_agent_tag",
+        "blackbox_tag",
+        "multi_agent_tag",
+        "judge_tag",
+        "multi_model_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/autonomous-ai-agents/blackbox/SKILL.md"
+    },
+    {
+      "id": "honcho_tags",
+      "label": "honcho tags",
+      "nodes": [
+        "honcho_tag",
+        "memory_tag",
+        "profiles_tag",
+        "observation_tag",
+        "dialectic_tag",
+        "user_modeling_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/autonomous-ai-agents/honcho/SKILL.md"
+    },
+    {
+      "id": "base_tags",
+      "label": "base tags",
+      "nodes": [
+        "base_tag",
+        "blockchain_tag",
+        "crypto_tag",
+        "web3_tag",
+        "rpc_tag",
+        "de_fi_tag",
+        "evm_tag",
+        "l2_tag",
+        "ethereum_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/blockchain/base/SKILL.md"
+    },
+    {
+      "id": "solana_tags",
+      "label": "solana tags",
+      "nodes": [
+        "solana_tag",
+        "blockchain_tag",
+        "crypto_tag",
+        "web3_tag",
+        "rpc_tag",
+        "de_fi_tag",
+        "nft_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/blockchain/solana/SKILL.md"
+    },
+    {
+      "id": "one_three_one_rule_tags",
+      "label": "one-three-one-rule tags",
+      "nodes": [
+        "communication_tag",
+        "decision_making_tag",
+        "proposals_tag",
+        "trade_offs_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/communication/one-three-one-rule/SKILL.md"
+    },
+    {
+      "id": "blender_mcp_tags",
+      "label": "blender-mcp tags",
+      "nodes": [
+        "blender_tag",
+        "3d_tag",
+        "animation_tag",
+        "modeling_tag",
+        "bpy_tag",
+        "mcp_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/creative/blender-mcp/SKILL.md"
+    },
+    {
+      "id": "meme_generation_tags",
+      "label": "meme-generation tags",
+      "nodes": [
+        "creative_tag",
+        "memes_tag",
+        "humor_tag",
+        "images_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/creative/meme-generation/SKILL.md"
+    },
+    {
+      "id": "inference_sh_cli_tags",
+      "label": "inference-sh-cli tags",
+      "nodes": [
+        "ai_tag",
+        "image_generation_tag",
+        "video_tag",
+        "llm_tag",
+        "search_tag",
+        "inference_tag",
+        "flux_tag",
+        "veo_tag",
+        "claude_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/devops/cli/SKILL.md"
+    },
+    {
+      "id": "docker_management_tags",
+      "label": "docker-management tags",
+      "nodes": [
+        "docker_tag",
+        "containers_tag",
+        "devops_tag",
+        "infrastructure_tag",
+        "compose_tag",
+        "images_tag",
+        "volumes_tag",
+        "networks_tag",
+        "debugging_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/devops/docker-management/SKILL.md"
+    },
+    {
+      "id": "agentmail_tags",
+      "label": "agentmail tags",
+      "nodes": [
+        "email_tag",
+        "communication_tag",
+        "agentmail_tag",
+        "mcp_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/email/agentmail/SKILL.md"
+    },
+    {
+      "id": "neuroskill_bci_tags",
+      "label": "neuroskill-bci tags",
+      "nodes": [
+        "bci_tag",
+        "neurofeedback_tag",
+        "health_tag",
+        "focus_tag",
+        "eeg_tag",
+        "cognitive_state_tag",
+        "biometrics_tag",
+        "neuroskill_tag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "optional-skills/health/neuroskill-bci/SKILL.md"
+    },
+    {
+      "id": "ai_agent_skills",
+      "label": "Ai Agent Skills",
+      "nodes": [
+        "blackbox_skill",
+        "hermes_agent_skill",
+        "honcho_skill",
+        "agentmail_skill"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "cross-domain"
+    },
+    {
+      "id": "hermes_optional_skills",
+      "label": "Hermes Optional Skills",
+      "nodes": [
+        "blackbox_skill",
+        "claude_code_skill",
+        "codex_skill",
+        "hermes_agent_skill",
+        "honcho_skill"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "optional-skills/"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

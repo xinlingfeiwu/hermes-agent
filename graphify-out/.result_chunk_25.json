@@ -1,0 +1,539 @@
+{
+  "nodes": [
+    {
+      "id": "open_webui_platform",
+      "label": "Open WebUI Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "1-10",
+      "captured_at": "2026-04-10T14:25:33.209627"
+    },
+    {
+      "id": "mattermost_platform",
+      "label": "Mattermost Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "source_location": "1-10",
+      "captured_at": "2026-04-10T14:25:33.209638"
+    },
+    {
+      "id": "signal_platform",
+      "label": "Signal Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "1-10",
+      "captured_at": "2026-04-10T14:25:33.209639"
+    },
+    {
+      "id": "homeassistant_platform",
+      "label": "Home Assistant Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "source_location": "1-10",
+      "captured_at": "2026-04-10T14:25:33.209641"
+    },
+    {
+      "id": "whatsapp_platform",
+      "label": "WhatsApp Platform",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": "1-10",
+      "captured_at": "2026-04-10T14:25:33.209642"
+    },
+    {
+      "id": "api_server",
+      "label": "Hermes Agent API Server",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "29-46"
+    },
+    {
+      "id": "openai_compat",
+      "label": "OpenAI-Compatible API",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "21-23"
+    },
+    {
+      "id": "websocket_mattermost",
+      "label": "Mattermost WebSocket",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "source_location": "9"
+    },
+    {
+      "id": "signal_cli_daemon",
+      "label": "signal-cli Daemon",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "61-77"
+    },
+    {
+      "id": "sse_streaming",
+      "label": "Server-Sent Events (SSE) Streaming",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "9"
+    },
+    {
+      "id": "baileys_bridge",
+      "label": "Baileys WhatsApp Bridge",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": "9"
+    },
+    {
+      "id": "ha_websocket",
+      "label": "Home Assistant WebSocket",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "source_location": "12-13"
+    },
+    {
+      "id": "docker_compose",
+      "label": "Docker Compose Setup",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "65-92"
+    },
+    {
+      "id": "session_model",
+      "label": "Session Model",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "source_location": "28-46"
+    },
+    {
+      "id": "threading",
+      "label": "Thread-Based Replies",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "source_location": "21"
+    },
+    {
+      "id": "access_control",
+      "label": "Access Control / User Allowlists",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "124-143"
+    },
+    {
+      "id": "phone_redaction",
+      "label": "Phone Number Redaction",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "175-179"
+    },
+    {
+      "id": "voice_messages",
+      "label": "Voice Message Support",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": "160-173"
+    },
+    {
+      "id": "device_control",
+      "label": "Smart Device Control",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "source_location": "49-122"
+    },
+    {
+      "id": "security_allowlist",
+      "label": "Security Allowlist Pattern",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "source_location": "284-288"
+    },
+    {
+      "id": "end_to_end_encryption",
+      "label": "End-to-End Encryption",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "11"
+    },
+    {
+      "id": "token_management",
+      "label": "API Token Management",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "169"
+    },
+    {
+      "id": "service_blocking",
+      "label": "Blocked Service Domains",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "source_location": "194-205"
+    },
+    {
+      "id": "environment_vars",
+      "label": "Environment Variable Configuration",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "29-34"
+    },
+    {
+      "id": "ha_tools",
+      "label": "Home Assistant Tools (4 LLM-callable tools)",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "source_location": "49-122"
+    },
+    {
+      "id": "qr_code_pairing",
+      "label": "QR Code Device Pairing",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": "42-62"
+    },
+    {
+      "id": "profiles_system",
+      "label": "Hermes Profiles System",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "199-240"
+    },
+    {
+      "id": "docker_container",
+      "label": "Docker Container Technology",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "source_location": "50-59"
+    },
+    {
+      "id": "nodejs_runtime",
+      "label": "Node.js Runtime",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "source_location": "33-37"
+    },
+    {
+      "id": "java_runtime",
+      "label": "Java Runtime",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "source_location": "22"
+    }
+  ],
+  "edges": [
+    {
+      "source": "open_webui_platform",
+      "target": "api_server",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "open_webui_platform",
+      "target": "openai_compat",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "open_webui_platform",
+      "target": "docker_compose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "open_webui_platform",
+      "target": "docker_container",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "open_webui_platform",
+      "target": "token_management",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "open_webui_platform",
+      "target": "profiles_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "api_server",
+      "target": "openai_compat",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 1.0
+    },
+    {
+      "source": "mattermost_platform",
+      "target": "websocket_mattermost",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "weight": 1.0
+    },
+    {
+      "source": "mattermost_platform",
+      "target": "session_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "weight": 1.0
+    },
+    {
+      "source": "mattermost_platform",
+      "target": "threading",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "weight": 1.0
+    },
+    {
+      "source": "mattermost_platform",
+      "target": "security_allowlist",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "weight": 1.0
+    },
+    {
+      "source": "mattermost_platform",
+      "target": "environment_vars",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "weight": 1.0
+    },
+    {
+      "source": "session_model",
+      "target": "threading",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/user-guide/messaging/mattermost.md",
+      "weight": 0.8
+    },
+    {
+      "source": "signal_platform",
+      "target": "signal_cli_daemon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "signal_platform",
+      "target": "sse_streaming",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "signal_platform",
+      "target": "access_control",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "signal_platform",
+      "target": "end_to_end_encryption",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "signal_platform",
+      "target": "phone_redaction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "signal_platform",
+      "target": "java_runtime",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "signal_cli_daemon",
+      "target": "java_runtime",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 1.0
+    },
+    {
+      "source": "homeassistant_platform",
+      "target": "ha_websocket",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "weight": 1.0
+    },
+    {
+      "source": "homeassistant_platform",
+      "target": "device_control",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "weight": 1.0
+    },
+    {
+      "source": "homeassistant_platform",
+      "target": "ha_tools",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "weight": 1.0
+    },
+    {
+      "source": "homeassistant_platform",
+      "target": "service_blocking",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "weight": 1.0
+    },
+    {
+      "source": "ha_tools",
+      "target": "device_control",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/homeassistant.md",
+      "weight": 1.0
+    },
+    {
+      "source": "whatsapp_platform",
+      "target": "baileys_bridge",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "weight": 1.0
+    },
+    {
+      "source": "whatsapp_platform",
+      "target": "qr_code_pairing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "weight": 1.0
+    },
+    {
+      "source": "whatsapp_platform",
+      "target": "voice_messages",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "weight": 1.0
+    },
+    {
+      "source": "whatsapp_platform",
+      "target": "nodejs_runtime",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "weight": 1.0
+    },
+    {
+      "source": "baileys_bridge",
+      "target": "nodejs_runtime",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/messaging/whatsapp.md",
+      "weight": 1.0
+    },
+    {
+      "source": "access_control",
+      "target": "security_allowlist",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 0.9
+    },
+    {
+      "source": "open_webui_platform",
+      "target": "mattermost_platform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 0.6
+    },
+    {
+      "source": "signal_platform",
+      "target": "whatsapp_platform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "website/docs/user-guide/messaging/signal.md",
+      "weight": 0.7
+    },
+    {
+      "source": "token_management",
+      "target": "security_allowlist",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 0.8
+    },
+    {
+      "source": "environment_vars",
+      "target": "token_management",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "website/docs/user-guide/messaging/open-webui.md",
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

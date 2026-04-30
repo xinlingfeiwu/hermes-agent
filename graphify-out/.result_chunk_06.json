@@ -1,0 +1,207 @@
+{
+  "nodes": [
+    {
+      "id": "skill_domain_intel",
+      "label": "domain-intel",
+      "file_type": "document",
+      "source_file": "optional-skills/research/domain-intel/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_duckduckgo_search",
+      "label": "duckduckgo-search",
+      "file_type": "document",
+      "source_file": "optional-skills/research/duckduckgo-search/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_gitnexus_explorer",
+      "label": "gitnexus-explorer",
+      "file_type": "document",
+      "source_file": "optional-skills/research/gitnexus-explorer/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "category_security",
+      "label": "Security Skills",
+      "file_type": "document",
+      "source_file": "optional-skills/security/DESCRIPTION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_parallel_cli",
+      "label": "parallel-cli",
+      "file_type": "document",
+      "source_file": "optional-skills/research/parallel-cli/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_qmd",
+      "label": "qmd",
+      "file_type": "document",
+      "source_file": "optional-skills/research/qmd/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_scrapling",
+      "label": "scrapling",
+      "file_type": "document",
+      "source_file": "optional-skills/research/scrapling/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_bioinformatics",
+      "label": "bioinformatics",
+      "file_type": "document",
+      "source_file": "optional-skills/research/bioinformatics/SKILL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "skill_domain_intel",
+      "target": "skill_duckduckgo_search",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_domain_intel",
+      "target": "skill_gitnexus_explorer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_duckduckgo_search",
+      "target": "skill_gitnexus_explorer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_duckduckgo_search",
+      "target": "skill_parallel_cli",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_gitnexus_explorer",
+      "target": "skill_parallel_cli",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_gitnexus_explorer",
+      "target": "skill_qmd",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_parallel_cli",
+      "target": "skill_qmd",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_parallel_cli",
+      "target": "skill_scrapling",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_qmd",
+      "target": "skill_scrapling",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_qmd",
+      "target": "skill_bioinformatics",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skill_scrapling",
+      "target": "skill_bioinformatics",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "optional-skills/research",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

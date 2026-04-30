@@ -1,0 +1,1 @@
+acp_registry/icon.svg

@@ -1,0 +1,698 @@
+{
+  "nodes": [
+    {
+      "id": "soul_md_identity_system",
+      "label": "SOUL.md - Agent Identity System",
+      "file_type": "document",
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agents_md_project_context",
+      "label": "AGENTS.md - Project Context",
+      "file_type": "document",
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "personality_system",
+      "label": "Personality & Mode Switching",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "local_llm_mac",
+      "label": "Local LLM Setup on macOS",
+      "file_type": "document",
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "llama_cpp_backend",
+      "label": "llama.cpp Backend Runtime",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mlx_backend",
+      "label": "MLX/omlx Backend Runtime",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mcp_protocol",
+      "label": "Model Context Protocol Integration",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mcp_servers_config",
+      "label": "MCP Server Configuration & Filtering",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegation_patterns",
+      "label": "Subagent Delegation Patterns",
+      "file_type": "document",
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "parallel_research",
+      "label": "Parallel Research Workflow",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "code_review_delegation",
+      "label": "Code Review Delegation Pattern",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multi_file_refactoring",
+      "label": "Multi-File Parallel Refactoring",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "python_library_api",
+      "label": "Hermes as Python Library API",
+      "file_type": "document",
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aiagent_class",
+      "label": "AIAgent Class & Initialization",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "batch_processing",
+      "label": "Batch Processing with AIAgent",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "persistent_memory",
+      "label": "Persistent Memory System",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "memory_md_file",
+      "label": "MEMORY.md - Agent Personal Notes",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "user_md_profile",
+      "label": "USER.md - User Profile",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "session_search",
+      "label": "Session Search & Recall",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "memory_providers",
+      "label": "External Memory Provider Plugins",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skills_system",
+      "label": "Skills System - Progressive Disclosure",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skill_md_format",
+      "label": "SKILL.md Format & Metadata",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skills_hub",
+      "label": "Skills Hub - Multi-Source Registry",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "conditional_skill_activation",
+      "label": "Conditional Skill Activation & Fallbacks",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tools_and_toolsets",
+      "label": "Tools & Toolsets Architecture",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/tools.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "terminal_backends",
+      "label": "Terminal Execution Backends",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/features/tools.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mcp_feature",
+      "label": "MCP Feature & Integration",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/mcp.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegation_feature",
+      "label": "Subagent Delegation Feature",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/features/delegation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cli_interface",
+      "label": "CLI Interface & Commands",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/cli.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slash_commands",
+      "label": "Slash Commands System",
+      "file_type": "concept",
+      "source_file": "website/docs/user-guide/cli.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "profiles_system",
+      "label": "Profiles - Multi-Agent Isolation",
+      "file_type": "document",
+      "source_file": "website/docs/user-guide/profiles.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openai_compatible_api",
+      "label": "OpenAI-Compatible API Endpoints",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "context_management",
+      "label": "Context Management & Compression",
+      "file_type": "concept",
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "soul_md_identity_system",
+      "target": "agents_md_project_context",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": "lines 36-40, 196-210",
+      "weight": 1.0
+    },
+    {
+      "source": "soul_md_identity_system",
+      "target": "personality_system",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": "lines 184-195",
+      "weight": 1.0
+    },
+    {
+      "source": "local_llm_mac",
+      "target": "llama_cpp_backend",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": "lines 41-127",
+      "weight": 1.0
+    },
+    {
+      "source": "local_llm_mac",
+      "target": "mlx_backend",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": "lines 139-173",
+      "weight": 1.0
+    },
+    {
+      "source": "llama_cpp_backend",
+      "target": "mlx_backend",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": "lines 177-207",
+      "weight": 1.0
+    },
+    {
+      "source": "llama_cpp_backend",
+      "target": "openai_compatible_api",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": "lines 18, 119-127",
+      "weight": 1.0
+    },
+    {
+      "source": "mcp_protocol",
+      "target": "mcp_servers_config",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": "lines 95-134",
+      "weight": 1.0
+    },
+    {
+      "source": "mcp_servers_config",
+      "target": "context_management",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": "lines 99-111",
+      "weight": 1.0
+    },
+    {
+      "source": "delegation_patterns",
+      "target": "parallel_research",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": "lines 31-66",
+      "weight": 1.0
+    },
+    {
+      "source": "delegation_patterns",
+      "target": "code_review_delegation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": "lines 70-96",
+      "weight": 1.0
+    },
+    {
+      "source": "delegation_patterns",
+      "target": "multi_file_refactoring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/delegation-patterns.md",
+      "source_location": "lines 119-156",
+      "weight": 1.0
+    },
+    {
+      "source": "python_library_api",
+      "target": "aiagent_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": "lines 39-95",
+      "weight": 1.0
+    },
+    {
+      "source": "python_library_api",
+      "target": "batch_processing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": "lines 187-221",
+      "weight": 1.0
+    },
+    {
+      "source": "aiagent_class",
+      "target": "batch_processing",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": "lines 209-225",
+      "weight": 1.0
+    },
+    {
+      "source": "persistent_memory",
+      "target": "memory_md_file",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": "lines 13-23",
+      "weight": 1.0
+    },
+    {
+      "source": "persistent_memory",
+      "target": "user_md_profile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": "lines 13-23",
+      "weight": 1.0
+    },
+    {
+      "source": "persistent_memory",
+      "target": "session_search",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": "lines 175-197",
+      "weight": 1.0
+    },
+    {
+      "source": "persistent_memory",
+      "target": "memory_providers",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/memory.md",
+      "source_location": "lines 210-221",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_system",
+      "target": "skill_md_format",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": "lines 56-91",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_system",
+      "target": "skills_hub",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": "lines 259-445",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_system",
+      "target": "conditional_skill_activation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": "lines 110-132",
+      "weight": 1.0
+    },
+    {
+      "source": "skill_md_format",
+      "target": "conditional_skill_activation",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": "lines 66-75, 110-132",
+      "weight": 1.0
+    },
+    {
+      "source": "tools_and_toolsets",
+      "target": "terminal_backends",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/tools.md",
+      "source_location": "lines 51-100",
+      "weight": 1.0
+    },
+    {
+      "source": "mcp_feature",
+      "target": "mcp_protocol",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/mcp.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "delegation_feature",
+      "target": "delegation_patterns",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/features/delegation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cli_interface",
+      "target": "slash_commands",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/user-guide/cli.md",
+      "source_location": "lines 100-127",
+      "weight": 1.0
+    },
+    {
+      "source": "cli_interface",
+      "target": "profiles_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/user-guide/cli.md",
+      "source_location": "lines 42",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_system",
+      "target": "slash_commands",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "website/docs/user-guide/features/skills.md",
+      "source_location": "lines 22-32",
+      "weight": 1.0
+    },
+    {
+      "source": "profiles_system",
+      "target": "persistent_memory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "website/docs/user-guide/profiles.md",
+      "source_location": "lines 10-11",
+      "weight": 1.0
+    },
+    {
+      "source": "memory_providers",
+      "target": "profiles_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/user-guide/profiles.md",
+      "source_location": "lines 57-59",
+      "weight": 1.0
+    },
+    {
+      "source": "aiagent_class",
+      "target": "tools_and_toolsets",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "website/docs/guides/python-library.md",
+      "source_location": "lines 97-120",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "nodes": ["mcp_protocol", "mcp_servers_config", "tools_and_toolsets"],
+      "relation": "MCP Tool Integration Architecture",
+      "description": "MCP servers integrate external tools that appear as Hermes toolsets after discovery and filtering"
+    },
+    {
+      "nodes": ["delegation_patterns", "parallel_research", "code_review_delegation", "multi_file_refactoring"],
+      "relation": "Parallel Workstream Patterns",
+      "description": "Subagent delegation enables isolation and parallelization across reasoning-heavy tasks with fresh contexts"
+    },
+    {
+      "nodes": ["skills_system", "skill_md_format", "conditional_skill_activation", "skills_hub"],
+      "relation": "Progressive Skill Discovery & Management",
+      "description": "Skills use on-demand loading with conditional visibility based on platform and available toolsets"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

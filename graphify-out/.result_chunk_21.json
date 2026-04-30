@@ -1,0 +1,452 @@
+{
+  "nodes": [
+    {
+      "id": "mem_provider_doc",
+      "label": "Memory Provider Plugins",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/memory-provider-plugin.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agent_loop_doc",
+      "label": "Agent Loop Internals",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/agent-loop.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "add_tools_doc",
+      "label": "Adding Tools",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/adding-tools.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gateway_doc",
+      "label": "Gateway Internals",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/gateway-internals.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tools_runtime_doc",
+      "label": "Tools Runtime",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/tools-runtime.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "acp_doc",
+      "label": "ACP Internals",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/acp-internals.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "create_skills_doc",
+      "label": "Creating Skills",
+      "file_type": "document",
+      "source_file": "website/docs/developer-guide/creating-skills.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "install_doc",
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "website/docs/getting-started/installation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quickstart_doc",
+      "label": "Quickstart",
+      "file_type": "document",
+      "source_file": "website/docs/getting-started/quickstart.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soul_doc",
+      "label": "Use SOUL.md with Hermes",
+      "file_type": "document",
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mcp_guide_doc",
+      "label": "Use MCP with Hermes",
+      "file_type": "document",
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "local_llm_doc",
+      "label": "Run Local LLMs on Mac",
+      "file_type": "document",
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cron_doc",
+      "label": "Automate Anything with Cron",
+      "file_type": "document",
+      "source_file": "website/docs/guides/automate-with-cron.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugins_doc",
+      "label": "Build a Hermes Plugin",
+      "file_type": "document",
+      "source_file": "website/docs/guides/build-a-hermes-plugin.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "mem_provider_doc",
+      "target": "agent_loop_doc",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/memory-provider-plugin.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mem_provider_doc",
+      "target": "gateway_doc",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/memory-provider-plugin.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mem_provider_doc",
+      "target": "add_tools_doc",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/developer-guide/memory-provider-plugin.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agent_loop_doc",
+      "target": "tools_runtime_doc",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/agent-loop.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agent_loop_doc",
+      "target": "gateway_doc",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/agent-loop.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agent_loop_doc",
+      "target": "create_skills_doc",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "website/docs/developer-guide/agent-loop.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "add_tools_doc",
+      "target": "tools_runtime_doc",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/adding-tools.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "add_tools_doc",
+      "target": "create_skills_doc",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/adding-tools.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gateway_doc",
+      "target": "tools_runtime_doc",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/gateway-internals.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gateway_doc",
+      "target": "mem_provider_doc",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/gateway-internals.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gateway_doc",
+      "target": "acp_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/gateway-internals.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "acp_doc",
+      "target": "agent_loop_doc",
+      "relation": "wraps",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/acp-internals.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "acp_doc",
+      "target": "tools_runtime_doc",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/acp-internals.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "create_skills_doc",
+      "target": "add_tools_doc",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/developer-guide/creating-skills.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "create_skills_doc",
+      "target": "agent_loop_doc",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "website/docs/developer-guide/creating-skills.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "install_doc",
+      "target": "quickstart_doc",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/getting-started/installation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quickstart_doc",
+      "target": "create_skills_doc",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/getting-started/quickstart.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quickstart_doc",
+      "target": "mcp_guide_doc",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "website/docs/getting-started/quickstart.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soul_doc",
+      "target": "agent_loop_doc",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/use-soul-with-hermes.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mcp_guide_doc",
+      "target": "tools_runtime_doc",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mcp_guide_doc",
+      "target": "add_tools_doc",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "website/docs/guides/use-mcp-with-hermes.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "local_llm_doc",
+      "target": "quickstart_doc",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/guides/local-llm-on-mac.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cron_doc",
+      "target": "gateway_doc",
+      "relation": "integrates_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "website/docs/guides/automate-with-cron.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "plugins_doc",
+      "target": "add_tools_doc",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/guides/build-a-hermes-plugin.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "plugins_doc",
+      "target": "create_skills_doc",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "website/docs/guides/build-a-hermes-plugin.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "agent_core_hyperedge",
+      "label": "Agent Core Architecture",
+      "nodes": [
+        "agent_loop_doc",
+        "tools_runtime_doc",
+        "acp_doc"
+      ],
+      "description": "Core components for agent execution and tool dispatch",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95
+    },
+    {
+      "id": "extensibility_hyperedge",
+      "label": "Extensibility Mechanisms",
+      "nodes": [
+        "add_tools_doc",
+        "create_skills_doc",
+        "mem_provider_doc",
+        "plugins_doc"
+      ],
+      "description": "Ways to extend Hermes with custom capabilities",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9
+    },
+    {
+      "id": "deployment_hyperedge",
+      "label": "Deployment & Integration",
+      "nodes": [
+        "gateway_doc",
+        "quickstart_doc",
+        "mcp_guide_doc",
+        "cron_doc"
+      ],
+      "description": "Mechanisms for deploying and integrating Hermes",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
